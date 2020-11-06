@@ -15,14 +15,14 @@ namespace Wykopowo
 
         static void Main(string[] args)
         {
-            var file = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location),
-                "subscriptions.db");
+            var homeDirectoryName = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+            var file = Path.Combine(homeDirectoryName, "subscriptions.db");
             var token = Environment.GetEnvironmentVariable("tele_token", EnvironmentVariableTarget.User);
             bootstrapper = new Bootstrapper();
             bootstrapper.Initialize(file, token);
-            //var timer = new Timer(1000 * 60 * 60 * 1.5d);
-            //timer.Elapsed += TimerOnElapsed;
-            //timer.Start();
+            var timer = new Timer(1000 * 60 * 30);
+            timer.Elapsed += TimerOnElapsed;
+            timer.Start();
             TimerOnElapsed(null, null);
             Console.ReadKey();
         }
