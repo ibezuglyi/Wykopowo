@@ -6,7 +6,6 @@ using Xunit;
 
 namespace Wykopowo.Implementations.Tests
 {
-    
     public class WykopTitlesExtractorTests
     {
         [Fact]
