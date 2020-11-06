@@ -1,0 +1,2288 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Wykop.pl - newsy, aktualności, gry, wiadomości, muzyka, ciekawostki, filmiki</title>
+	<meta name="robots" content="follow, index"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="pl"  />
+	<meta name="description" content="Wykop jest miejscem, gdzie gromadzimy najciekawsze informacje z Sieci: newsy, artykuły, linki. O treści serwisu decydują tylko i wyłącznie nasi użytkownicy, dodając newsy, komentując i głosując na nie." />
+	<meta name="keywords" content="Newsy, Aktualności, Gry komputerowe, Super filmiki, Wiadomości, Ciekawostki, Filmiki z humorem, śmieszne filmy, Muzyka na codzień" />
+	<meta name="verify-v1" content="" />
+	<meta name="google-site-verification" content="V4MUQ9RWTEmDapezxuye8fqvShDIixA1oYzAytVf-ys" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<link href="https://plus.google.com/103563347525706677989/" rel="publisher" />
+	<link rel="apple-touch-icon" sizes="57x57" href="https://www.wykop.pl/static/wykoppl7/img/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.wykop.pl/static/wykoppl7/img/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.wykop.pl/static/wykoppl7/img/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="https://www.wykop.pl/static/wykoppl7/img/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="https://www.wykop.pl/static/wykoppl7/img/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.wykop.pl/static/wykoppl7/img/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.wykop.pl/static/wykoppl7/img/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.wykop.pl/static/wykoppl7/img/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.wykop.pl/static/wykoppl7/img/apple-touch-icon-180x180.png" />
+	<link rel="icon" type="image/png" href="https://www.wykop.pl/static/wykoppl7/img/favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="https://www.wykop.pl/static/wykoppl7/img/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="https://www.wykop.pl/static/wykoppl7/img/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="https://www.wykop.pl/static/wykoppl7/img/favicon-160x160.png" sizes="160x160" />
+    	<meta name="msapplication-TileColor" content="#4383af" />
+	<meta name="msapplication-TileImage" content="https://www.wykop.pl/static/wykoppl7/img/mstile-144x144.png" />
+	<meta name="msapplication-square70x70logo" content="https://www.wykop.pl/static/wykoppl7/img/mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="https://www.wykop.pl/static/wykoppl7/img/mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="https://www.wykop.pl/static/wykoppl7/img/mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="https://www.wykop.pl/static/wykoppl7/img/mstile-310x310.png" />
+            <meta name="apple-itunes-app" content="app-id=365459650"/>
+        <meta name="google-play-app" content="app-id=pl.wykop.droid"/>
+        	<link rel="search" type="application/opensearchdescription+xml" href="https://www.wykop.pl/ffsearch/" title="Wyszukiwarka" />
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.wykop.pl/rss/" />
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="wykop">
+	<meta property="og:image" content="https://www.wykop.pl/cdn/c3201142/comment_DEVoQN5buociUhmq3WcR05Lt0Dm7HyqB,q300.jpg"/>
+	<meta property="twitter:image" content="https://www.wykop.pl/cdn/c3201142/comment_DEVoQN5buociUhmq3WcR05Lt0Dm7HyqB,q300.jpg"/>
+	<meta property="og:locale" content="pl_PL"/>
+	<meta property="og:site_name" content="Wykop.pl"/>
+	<meta property="fb:app_id" content="105347574961" />
+		<meta name="application-name" content="Wykop.pl"/>
+	
+	
+	<link rel="preload" as="style"  type="text/css"  href="https://www.wykop.pl/static/wykoppl7/s/125905a2f87da366990a80d2ce8095a7.css" /><link rel="stylesheet" type="text/css"  href="https://www.wykop.pl/static/wykoppl7/s/125905a2f87da366990a80d2ce8095a7.css" />
+
+    <script src="/adframe.js"></script>
+    <script src="/adx.js"></script>
+    <script src="/ads.js"></script>
+    <script type="text/javascript">
+		var wykop = {};
+		wykop.params = {
+			action : "index",
+			method : "index",
+			base   : "https://www.wykop.pl/",
+			hash   : "9228f8a28ce1a83dd54994bd156edaa2-1603835055",
+			logged : 0,
+			submitOnEnter : 0,
+			settings : {"c_order":"najlepsze","t_mode":"w","c_ama":1,"stream_o":"hot"},
+            csrf : ":8881aba5375e3231ec46173405908e7033d6893e",
+            gtmEvents: [],
+			ajaxAutoRefresh : {
+				url : null,
+				interval : null,
+				selector : null				}
+			};
+		
+        wykop.isRwd = (window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) <= 721;
+        
+        wykop.advertTestLink = null;
+            </script> 
+
+    <!-- isd --><script async src="//cmp.optad360.io/items/2d985a54-7a35-4e1d-a1da-96db3b57ff35.min.js"></script><script>
+    !function(){function t(){var t=document.createElement("script");t.setAttribute("src",function(t){for(var e,n="",o=0;o<t.length;o++)e=t.charCodeAt(o)+2,n=n.concat(String.fromCharCode(e));return n}("frrnq8--uuu,qr_rqdmp_bq,amk-r_e-270406324,kgl,hq")),t.setAttribute("async","async"),document.body.appendChild(t)}"loading"===document.readyState?document.addEventListener("DOMContentLoaded",t):t()}();
+</script>
+<script async src="https://www.statsforads.com/tag/492628546.min.js"></script>
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/36739/adRecover.js?ts=1537266012710'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+    
+    <script src="https://www.google.com/recaptcha/api.js?onload=recaptchaOnloadCallback&render=explicit" async defer></script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer2','GTM-59VCTDL');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body  >
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59VCTDL"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<div id="nav" class="clearfix   m-reset-position">
+
+
+    <div class="wrapper nav color-bright">
+        <ul class="clearfix mainnav">
+        	<li class="m-show"><a href="#" class="affect hide"><i class="fa fa-bars"></i></a></li>
+            <li class="active"><a href="https://www.wykop.pl/" title="Znaleziska najwyżej oceniane"><i class="icon wykop-logo">Wykop.pl</i></a></li> 
+            <li ><a href="https://www.wykop.pl/wykopalisko/" title="Znaleziska dodane w ciągu 24 godzin">Wykopalisko <em class="mark-number">738</em></a></li>
+            <li ><a href="https://www.wykop.pl/hity/" title="Najlepsze znaleziska">Hity</a></li> 
+            <li ><a href="https://www.wykop.pl/mikroblog/" title="Dyskusje użytkowników">Mikroblog</a></li>
+                   		        </ul>
+		
+		<form class="nospace naturalsearch bodyClosable dnone" method="get" id="naturalSearch" action="https://www.wykop.pl/naturalsearch/">
+            	<div>
+            	<input type="text" name="nsQ" value="Aktywne na Strona główna" autocomplete="off">
+            	<ul id="nlSuggest" class="dnone">
+
+            	</ul>
+            	</div>
+        </form>
+		
+        <ul class="clearfix">
+                    <li class="not-logged">
+                    	<a data-redirect-to="https://www.wykop.pl/szukaj/" href="https://www.wykop.pl/szukaj/" title="Znajdź na Wykopie" id="openNaturalSearch" class="">Szukaj</a>
+            </li>
+            <li class="m-show m-add unlogged"><a href="https://www.wykop.pl/dodaj/" title="Dodaj znalezisko"><i class="fa fa-plus"></i></a></li> 
+            <li class="m-hide"><a href="https://www.wykop.pl/dodaj/" title="Dodaj znalezisko">Dodaj</a></li>
+             
+            <li class="login ddC">
+                <a data-redirect-to="https://www.wykop.pl/zaloguj/?fEr[0]=YmVmYmh0dHBzOi8vd3d3Lnd5a29wLnBsLw%3D%3D" class="dropdown-show auto js-do-redirect" href="https://www.wykop.pl/zaloguj/?fEr[0]=YmVmYmh0dHBzOi8vd3d3Lnd5a29wLnBsLw%3D%3D" title="Zaloguj się">Zaloguj się</a>
+            	<div class="dropdown right">
+            		<div>
+            			<ul class="newregister-drop">
+    <li>
+        <form action="https://www.wykop.pl/zaloguj/?fEr[0]=YmVmYmh0dHBzOi8vd3d3Lnd5a29wLnBsLw%3D%3D" method="post">
+            <div>
+                <label for="newregister-login">Login</label>
+                <input type="text" name="user[username]" id="newregister-login">
+            </div>
+            <div>
+                <label for="newregister-pass">Hasło</label>
+                <input type="password" name="user[password]" id="newregister-pass">
+            </div>
+            <fieldset class="row buttons">
+                <p>
+                    <input type="submit" value="Zaloguj się">
+                </p>
+            </fieldset>
+        </form>
+    </li>
+    <li class="inject">
+        <span>lub</span>
+    </li>
+    <li class="facebook-colors">
+        <a class="button fb-button" href="https://www.wykop.pl/facebook/register/"><i class="fa fa-facebook-square"></i>
+        <span>Zaloguj przez Facebook</span></a>
+    </li>
+    <li class="mark-bg text-center">
+        <a id="register" class="link" href="https://www.wykop.pl/rejestracja/" title="Zarejestruj się na Wykop.pl"><span class="dark">Nie masz konta?</span> Zarejestruj się.</a>
+    </li>
+</ul>
+
+            		</div>
+            	</div>
+            </li>
+			        </ul>
+    </div>
+</div>
+
+
+<div id="site" class="m-reset-padding m-reset-margin">
+
+    
+<div class="wrapper clearfix  m-reset-padding">
+
+    <div class="nav bspace rbl-block">
+    <p class="info m-reset-float m-hide"></p>
+    <ul>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/ciekawostki/najlepsze/"><span>Ciekawostki</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/nauka/najlepsze/"><span>Nauka</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/historia/najlepsze/"><span>Historia</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/rozrywka/najlepsze/"><span>Rozrywka</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/sport/najlepsze/"><span>Sport</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/motoryzacja/najlepsze/"><span>Motoryzacja</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/syria/najlepsze/"><span>Syria</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/swiat/najlepsze/"><span>Świat</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/spacex/najlepsze/"><span>SpaceX</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/programowanie/najlepsze/"><span>Programowanie</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/technologia/najlepsze/"><span>Technologia</span></a></li>
+                <li><a href="https://www.wykop.pl/tag/znaleziska/ama/najlepsze/"><span>AMA</span></a></li>
+            </ul>
+</div>
+
+	<div class="grid-full">
+				<div class="text-center all-in"><span id="wpladtop"><ins class="staticpubads89354"
+     data-sizes-desktop="1200x300, 1200x100, 1140x300, 1140x200, 1140x100, 1000x200, 970x300, 970x90, 950x250, 900x300, 900x200, 830x300, 800x120, 750x300, 700x200, 728x90, 728x200"
+     data-sizes-mobile="336x280, 300x250, 320x100, 320x300"
+     data-slot="3"
+>
+</ins>
+</span>		</div>
+				
+			</div>
+	
+    <div class="grid m-reset-float">    
+        <div class="grid-main m-reset-margin">
+        
+				<div class="nav bspace rbl-block">
+	    <p class="info m-reset-float m-hide">
+	    	        Strona główna :
+	    	    </p>
+	    
+	    	    <ul class="m-hide">
+	    			<li class="active"><a href="https://www.wykop.pl/mode/list/" title="włącz widok listy"><i class="fa fa-list-ul"></i></a></li>
+					<li ><a href="https://www.wykop.pl/mode/gallery/" title="włącz widok galerii"><i class="fa fa-th-large"></i></a></li>
+				</ul>
+			    
+	    	    <ul></ul>
+	    	    	    <ul>
+	    	<li ><a href="https://www.wykop.pl/najnowsze/" ><span>najnowsze</span></a></li><li class="active"><a href="https://www.wykop.pl/aktywne/" ><span>aktywne</span></a></li><li ><a href="https://www.wykop.pl/ulubione/" ><span>ulubione</span></a></li>	    </ul>
+	    	</div><!-- /nav -->
+			
+<div id="autopromotion"></div>
+
+
+    <div class="space clearfix type-alert alert-polityka closableContaineralertpolityka">
+        <a class="close ajax" href="#" data-ajaxurl="https://www.wykop.pl/ajax2/close/hideDay/alertpolityka/" title="zamknij"><i class="fa fa-times"></i></a>
+        <div class="alert-polityka-left">
+            Przeszkadza Ci #polityka na Wykopie?<br>Zarejestruj konto i sam decyduj jakie tematy chcesz wyświetlać!
+        </div>
+        <div class="alert-polityka-right">
+            <a href="https://www.wykop.pl/rejestracja/"><input type="submit" value="ZAŁÓŻ KONTO NA WYKOP.PL" /></a>
+        </div>
+    </div>
+
+
+<ul id="dyingLinksBox" class="comments-stream ">
+	<li class="link dying-links mark-bg iC">
+    <div class="article clearfix preview">
+
+        <div class="diggbox">
+            <a rel="nofollow" href="http://www.wykop.pl/market/" title="Zareklamuj się w Wykop Markecie">
+                <span>S</span>
+            </a>
+        </div>
+
+        <div class="lcontrast m-reset-margin">
+            <h2>
+                <a rel="nofollow" href="http://www.wykop.pl/market/"
+                   title="Zareklamuj się w Wykop Markecie">Zareklamuj się w Wykop Markecie</a>
+            </h2>
+
+            <div class="description">
+                <p class="fright small">
+                                            reklama z <a href ="https://www.wykop.pl/market/" > wykop market </a>
+                                        <a class="button mikro prev-link" title="poprzednie" href="#"><i class="fa fa-chevron-left"></i></a>
+                    <a class="button mikro next-link" title="następne" href="#"><i class="fa fa-chevron-right"></i></a>
+                </p>
+                                                                                </div>
+        </div>
+
+    </div>
+</li>
+		<li class="link dying-links mark-bg iC dnone">
+			<div class="article clearfix preview">
+		        <div class="diggbox">
+		    		<a href="https://www.wykop.pl/link/5764783/firmy-ktore-skorzystaly-z-subwencji-pfr-przez-lockdown-moga-wpasc-w-pulapke/" title="Firmy, które skorzystały z subwencji PFR, przez lockdown mogą wpaść w pułapkę">
+				    	<span>59</span>
+				    </a>
+		    	</div>
+				<div class="lcontrast m-reset-margin">
+					<h2>
+					    <a href="https://www.wykop.pl/link/5764783/firmy-ktore-skorzystaly-z-subwencji-pfr-przez-lockdown-moga-wpasc-w-pulapke/" title="Firmy, które skorzystały z subwencji PFR, przez lockdown mogą wpaść w pułapkę">Firmy, które skorzystały z subwencji PFR, przez lockdown mogą wpaść w pułapkę</a>
+					</h2>
+					<div class="description">
+					    <p class="fright small">
+					    	<a title="Znaleziska wysoko ocenione przez Wykopowiczów, którym niewiele brakuje do wejścia na stronę główną, a jednocześnie niebawem znikną z wykopaliska">wykopowe urwisko</a>
+					    						    	<a class="button mikro prev-link" href="#"><i class="fa fa-chevron-left"></i></a>
+					    	<a class="button mikro next-link" href="#"><i class="fa fa-chevron-right"></i></a>
+					    						    </p>
+					    <p class="text small">
+					        Poleca <a class="color-2" href="https://www.wykop.pl/ludzie/dedik/" title="Profil dedik">dedik</a>
+					    </p>
+					</div>
+				</div>
+		    
+			</div>
+		</li>
+	</ul>
+<ul id="itemsStream" class="comments-stream ">
+<li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766625">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766625/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>199</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766625/strajk-generalny-w-polsce-przeciw-polsce-jest-nielegalny-xd/" rel="nofollow " title="" >
+                                <img src="https://www.wykop.pl/cdn/c3397993/link_1603823186DpiFUvrhGJJZTfsWAtqVk6,w207h139.jpg"
+                         alt="Strajk generalny w Polsce przeciw Polsce jest nielegalny xD">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766625/strajk-generalny-w-polsce-przeciw-polsce-jest-nielegalny-xd/" rel="nofollow " title="Strajk generalny w Polsce przeciw Polsce jest nielegalny xD" >Strajk generalny w Polsce przeciw Polsce jest nielegalny xD</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/Izanagi013/"><em>@</em>Izanagi013</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5766625/strajk-generalny-w-polsce-przeciw-polsce-jest-nielegalny-xd/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">money.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/money.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/kultura/"><em>#</em>kultura</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/rozrywka/"><em>#</em>rozrywka</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/zainteresowania/"><em>#</em>zainteresowania</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766625/strajk-generalny-w-polsce-przeciw-polsce-jest-nielegalny-xd/" title="">
+					&quot;W Polsce nie ma prawnych możliwości zorganizowania strajku generalnego przeciwko państwu - mówią zgodnie prawnicy i związkowcy.&quot;
+W momencie, w którym kaczyński wypowiada wojnę &quot;skrajnej lewicy&quot;, brzmi to nadzwyczaj śmiesznie.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766625/strajk-generalny-w-polsce-przeciw-polsce-jest-nielegalny-xd/"><i class="fa fa-comments-o"></i> 26 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:37:01" datetime="2020-10-27T22:37:01+01:00" itemprop="datePublished">7 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765483">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765483/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>309</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/" rel="nofollow " title="" >
+                                <img src="https://www.wykop.pl/cdn/c3397993/link_1603795411ABISDDMjAlmMOTBaAoCC4i,w207h139.jpg"
+                         alt="Nie mają litości dla Agaty i Kingi Dudów. Zamieścili wymowny żart">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/" rel="nofollow " title="Nie mają litości dla Agaty i Kingi Dudów. Zamieścili wymowny żart" >Nie mają litości dla Agaty i Kingi Dudów. Zamieścili wymowny żart</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2001 affect" href="https://www.wykop.pl/ludzie/WirtualnaPolska/"><em>@</em>WirtualnaPolska</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">gwiazdy.wp.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/gwiazdy.wp.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/kultura/"><em>#</em>kultura</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/rozrywka/"><em>#</em>rozrywka</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/pieklokobiet/"><em>#</em>pieklokobiet</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/strajkkobiet/"><em>#</em>strajkkobiet</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/aborcja/"><em>#</em>aborcja</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/" title="">
+					Członkowie kabaretu Ani Mru Mru opowiadają się przeciwko rządzącym i potrafią zamanifestować swoje poglądy zarówno dobitnie, jak i żartobliwie. Tym razem oberwało się żonie i córce prezydenta Polski.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/"><i class="fa fa-comments-o"></i> 41 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:36:02" datetime="2020-10-27T22:36:02+01:00" itemprop="datePublished">8 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li>
+<li class="link iC">
+	<div class="article clearfix preview">
+		        <div class="diggbox">
+		    		<a href="https://www.wykop.pl/paylink/9181/14555/" target="_blank" rel="nofollow" title="Wolisz budować czy walczyć?">
+				    	<span>S</span>
+				    </a>
+		    	</div>
+				
+								<div class="media-content m-reset-float ">
+					    				<a href="https://www.wykop.pl/paylink/9181/14555/" target="_blank" rel="nofollow" title="Wolisz budować czy walczyć?" >
+				  	  <img width="207" height="139" alt="Wolisz budować czy walczyć?" src="https://www.wykop.pl/cdn/c728492/paylink_14555_JRyQQs9l4QIh.jpg">
+					</a>
+				</div>
+									        
+				<div class="lcontrast m-reset-margin">
+					<h2>
+					    <a href="https://www.wykop.pl/paylink/9181/14555/" target="_blank" rel="nofollow" title="Wolisz budować czy walczyć?">
+					   		Wolisz budować czy walczyć?					    </a>
+					</h2>
+					
+					<div class="description bspace-small">
+					    <p class="text">
+					        <a href="https://www.wykop.pl/paylink/9181/14555/" target="_blank" rel="nofollow" title="Wolisz budować czy walczyć?">
+								Zamień małą wioskę w prawdziwe imperium. Graj za darmo	
+					        </a>
+					    </p>    
+					</div>
+					
+					<div>
+						<ul class="sub-menu inline-list clear-top">
+					  		<li><a href="http://www.wykop.pl/reklama">Wykop Sponsorowany</a></li>
+						    <li>Reklamuj się w <a href="http://www.wykop.pl/reklama">Wykop.pl</a></li> 
+						</ul>
+					</div>
+				</div>
+		        							<img src="https://www.wykop.pl/paylink/emiter/9181/14555/?ts=1603835055" />    
+																							</div>
+</li>
+<li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766341">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766341/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>541</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766341/oficjalne-zadania-strajku-kobiet/" rel="nofollow noopener noreferrer" title="" >
+                                <img src="https://www.wykop.pl/cdn/c3397993/link_1603816684urirKvHr29NiYjtUOSX1py,w207h139.jpg"
+                         alt="Oficjalne żądania Strajku Kobiet">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766341/oficjalne-zadania-strajku-kobiet/" rel="nofollow noopener noreferrer" title="Oficjalne żądania Strajku Kobiet" >Oficjalne żądania Strajku Kobiet</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/dwayne-johnson/"><em>@</em>dwayne-johnson</a>
+						<span class="tag create"><a class="affect" href="https://wyborcza.pl/7,162657,26445467,dymisja-rzadu-i-julii-przylebskiej-czego-jeszcze-zada-ogolnopolski.html" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">wyborcza.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/wyborcza.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazkonfederacji/"><em>#</em>bekazkonfederacji</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazprawakow/"><em>#</em>bekazprawakow</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/neuropa/"><em>#</em>neuropa</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766341/oficjalne-zadania-strajku-kobiet/" title="">
+					Podpisuję się rękami i nogami.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766341/oficjalne-zadania-strajku-kobiet/"><i class="fa fa-comments-o"></i> 226 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:09:02" datetime="2020-10-27T22:09:02+01:00" itemprop="datePublished">35 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="entry iC "> <div class="wblock lcontrast dC  " data-id="53101783" data-type="entry">
+	<a name="comment-53101783" style="position: relative; top: -120px">&nbsp;</a>
+	<a class="profile" href="https://www.wykop.pl/ludzie/pankos/" title="" ><img class="avatar male lazy" data-original="https://www.wykop.pl/cdn/c3397992/avatar_def,q40.png" alt=""></a>
+	<div>
+		<div class="author ellipsis ">
+            			    <a class="color-1 showProfileSummary" href="https://www.wykop.pl/ludzie/pankos/" title="" ><b>pankos</b></a>
+            						<a href="https://www.wykop.pl/wpis/53101783/zapraszam-na-kolejny-odcinek-konkursu-gitarowego-m/" ><small class="affect"><time title="2020-10-27 17:45:59" datetime="2020-10-27T17:45:59+01:00" itemprop="datePublished">4 godz. temu</time></small></a>
+			<small class="affect"></small>
+					    <p class="vC" data-vc="139" data-vcp="0" data-vcm="0">
+		    			        <b class=""><span class="c2a7017">+139</span></b>
+		        		    			    			        <i class="fa fa-bookmark favourite red"></i>
+			</p>
+		</div>
+				        <div class="text embed-youtube">
+			<p>
+
+            Zapraszam na kolejny odcinek konkursu gitarowego #<a class="showTagSummary" href="https://www.wykop.pl/tag/mirkoshredwars">mirkoshredwars</a>!<br />
+<br />
+Dzisiaj zmierzą się @<a class="showProfileSummary" href="https://www.wykop.pl/ludzie/Toszeron">Toszeron</a> vs @<a class="showProfileSummary" href="https://www.wykop.pl/ludzie/Eustachiusz">Eustachiusz</a><br />
+<br />
+Obaj zawodnicy dostali to samo zadanie bojowe - zagrać krótkie solo do <a href="https://youtu.be/xkBunCIHSGI" rel="nofollow">tego podkładu.</a><br />
+<br />
+Który z nich poradził<span class="text-expanded dnone"> sobie lepiej, Waszym zdaniem? Głosujcie stawiając plusa obok jednego z dwóch komentarzy niżej. W razie wątpliwości, możecie dać dwa plusy. Głosowanie trwa równo 48 godzin, czas start.<br />
+<br />
+Drabinka konkursowa prezentuje się następująco: <a href="https://challonge.com/pl/qivqobqu" rel="nofollow">https://challonge.com/pl/qivqobqu</a><br />
+<br />
+#<a class="showTagSummary" href="https://www.wykop.pl/tag/gitara">gitara</a> #<a class="showTagSummary" href="https://www.wykop.pl/tag/gitaraelektryczna">gitaraelektryczna</a> #<a class="showTagSummary" href="https://www.wykop.pl/tag/muzyka">muzyka</a> #<a class="showTagSummary" href="https://www.wykop.pl/tag/tworczoscwlasna">tworczoscwlasna</a> #<a class="showTagSummary" href="https://www.wykop.pl/tag/produkcjamuzyki">produkcjamuzyki</a> #<a class="showTagSummary" href="https://www.wykop.pl/tag/instrumenty">instrumenty</a> #<a class="showTagSummary" href="https://www.wykop.pl/tag/mirkoguitarwars">mirkoguitarwars</a></span> <a class="show-more" href="https://www.wykop.pl/wpis/53101783/zapraszam-na-kolejny-odcinek-konkursu-gitarowego-m/">pokaż całość</a>                			</p>
+		    <div class="media-content video" data-type="entry" data-id="53101783"><p class="icon-media play"><i class="fa fa-play"></i></p><a href="https://www.wykop.pl/wpis/53101783/zapraszam-na-kolejny-odcinek-konkursu-gitarowego-m/"  data-open="1" class="" ><img src="https://www.wykop.pl/cdn/c3201142/comment_1603817159Yh7Km23Pmkg22DZ0siwSbx,w400.jpg" class="block lazy"></a><p class="description light" rel="nofollow noopener noreferrer" data-type="entry" data-id="53101783">źródło: youtube.com<p></div>
+            <div class="votersContainer">
+		    	  
+		    </div>
+		</div>
+						
+	</div>
+
+
+</div>
+ </li><li class="link iC hot"> <div class="article  clearfix preview   dC" data-type="link" data-id="5766931">
+        <div class="diggbox ">
+    	<i class="icon hot"></i>		<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766931/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>682</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/rejestracja/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c2526412/18-plus,w207h139.jpg"
+                         alt="Lewacka bojówka atakuje ludzi stojących pod kościołem.">
+                		</a>
+	</div>
+
+            <div class="lcontrast m-reset-margin">
+            <div class="description hide18unlogged">
+                <p class="hide18unlogged_p1">Zawiera treści przeznaczone dla osób pełnoletnich.</p>
+                <p class="hide18unlogged_p2">Aby uzyskać dostęp, <a href="https://www.wykop.pl/rejestracja/">zaloguj się</a> lub <a href="https://www.wykop.pl/rejestracja/">załóż konto</a>.</p>
+                <a href="https://www.wykop.pl/rejestracja/" class="hide18unlogged_cta"><input type="submit" value="Załóż konto"/></a>
+            </div>
+        </div>
+    </div>
+ </li><li class="link iC hot"> <div class="article  clearfix preview   dC" data-type="link" data-id="5766851">
+        <div class="diggbox ">
+    	<i class="icon hot"></i>		<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766851/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>2428</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766851/w-bialymstoku-ludzie-broniacy-kosciola-wspieraja-strajk-kobiet/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603828746IwfyaQwX2IbtJg1hpIitCa,w207h139.jpg"
+                         alt="W Białymstoku ludzie broniący kościoła wspierają strajk kobiet.">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766851/w-bialymstoku-ludzie-broniacy-kosciola-wspieraja-strajk-kobiet/" rel="nofollow noopener noreferrer" title="W Białymstoku ludzie broniący kościoła wspierają strajk kobiet." >W Białymstoku ludzie broniący kościoła wspierają strajk kobiet.</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/brightside/"><em>@</em>brightside</a>
+						<span class="tag create"><a class="affect" href="https://twitter.com/marcin_bender/status/1321168378783014913" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">twitter.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/twitter.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/aborcja/"><em>#</em>aborcja</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="affect tag create unhide">+2 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766851/w-bialymstoku-ludzie-broniacy-kosciola-wspieraja-strajk-kobiet/" title="">
+					Zadziwiający zwrot akcji :) WSZYSCY mają dość!		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766851/w-bialymstoku-ludzie-broniacy-kosciola-wspieraja-strajk-kobiet/"><i class="fa fa-comments-o"></i> 257 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 21:32:01" datetime="2020-10-27T21:32:01+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC hot"> <div class="article empty-media clearfix preview   dC" data-type="link" data-id="5766783">
+        <div class="diggbox ">
+    	<i class="icon hot"></i>		<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766783/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>2206</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766783/armagedon-w-skrocie-propagandowych-wiadomosci-tvp-27-pazdziernika/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c2526412/no-picture,w207h139.jpg"
+                         alt="ARMAGEDON w skrócie propagandowych wiadomości TVP: 27 października">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766783/armagedon-w-skrocie-propagandowych-wiadomosci-tvp-27-pazdziernika/" rel="nofollow noopener noreferrer" title="ARMAGEDON w skrócie propagandowych wiadomości TVP: 27 października" >ARMAGEDON w skrócie propagandowych wiadomości TVP: 27 października</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/jaxonxst/"><em>@</em>jaxonxst</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/wpis/53109237" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">wykop.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/wykop.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/tvpiscodzienny/"><em>#</em>tvpiscodzienny</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/tvpis/"><em>#</em>tvpis</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/koronawirus/"><em>#</em>koronawirus</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/gruparatowaniapoziomu/"><em>#</em>gruparatowaniapoziomu</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766783/armagedon-w-skrocie-propagandowych-wiadomosci-tvp-27-pazdziernika/" title="">
+					5 ZŁOTYCH GOEBBELSÓW I 2 SREBRNE. TO WYDANIE BYŁO STRASZNE.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766783/armagedon-w-skrocie-propagandowych-wiadomosci-tvp-27-pazdziernika/"><i class="fa fa-comments-o"></i> 129 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 20:42:02" datetime="2020-10-27T20:42:02+01:00" itemprop="datePublished">2 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC hot"> <div class="article  clearfix preview   dC" data-type="link" data-id="5766711">
+        <div class="diggbox ">
+    	<i class="icon hot"></i>		<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766711/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>2461</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    			<p class="icon-media play">
+		    <i class="fa fa-play"></i>
+		</p>
+		
+		<a href="https://www.wykop.pl/link/5766711/tvp-wiadomosci-minister-edukacji-2020-10-27-20-04-13/" rel="nofollow noopener noreferrer" title="" data-ajaxurl="https://www.wykop.pl/ajax2/embed/html/type/link/id/5766711/" class="ajax">
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603825654lwDoAfR0t8DA54z5DUkrj3,w207h139.jpg"
+                         alt="TVP Wiadomości minister edukacji 2020 10 27 20 04 13">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766711/tvp-wiadomosci-minister-edukacji-2020-10-27-20-04-13/" rel="nofollow noopener noreferrer" title="TVP Wiadomości minister edukacji 2020 10 27 20 04 13" >TVP Wiadomości minister edukacji 2020 10 27 20 04 13</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/plomky/"><em>@</em>plomky</a>
+						<span class="tag create"><a class="affect" href="http://www.youtube.com/watch?v=jUPcEKqLf2A" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">youtube.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/youtube.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/tvpis/"><em>#</em>tvpis</a>
+								    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766711/tvp-wiadomosci-minister-edukacji-2020-10-27-20-04-13/" title="">
+					Protesty Kobiet to są protesty satanistyczne, protesty walczące z Polską.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766711/tvp-wiadomosci-minister-edukacji-2020-10-27-20-04-13/"><i class="fa fa-comments-o"></i> 155 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 20:39:02" datetime="2020-10-27T20:39:02+01:00" itemprop="datePublished">2 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li>
+<li class="link iC">
+	<div class="article clearfix preview">
+		        <div class="diggbox">
+		    		<a href="https://www.wykop.pl/paylink/8447/14429/" target="_blank" rel="nofollow" title="Szukasz nowego smartfona? Zobacz, co poleca Plush!">
+				    	<span>S</span>
+				    </a>
+		    	</div>
+				
+								<div class="media-content m-reset-float ">
+					    				<a href="https://www.wykop.pl/paylink/8447/14429/" target="_blank" rel="nofollow" title="Szukasz nowego smartfona? Zobacz, co poleca Plush!" >
+				  	  <img width="207" height="139" alt="Szukasz nowego smartfona? Zobacz, co poleca Plush!" src="https://www.wykop.pl/cdn/c728492/paylink_14429_Fo9uEgNMqXT3.jpg">
+					</a>
+				</div>
+									        
+				<div class="lcontrast m-reset-margin">
+					<h2>
+					    <a href="https://www.wykop.pl/paylink/8447/14429/" target="_blank" rel="nofollow" title="Szukasz nowego smartfona? Zobacz, co poleca Plush!">
+					   		Szukasz nowego smartfona? Zobacz, co poleca Plush!					    </a>
+					</h2>
+					
+					<div class="description bspace-small">
+					    <p class="text">
+					        <a href="https://www.wykop.pl/paylink/8447/14429/" target="_blank" rel="nofollow" title="Szukasz nowego smartfona? Zobacz, co poleca Plush!">
+								Jesienną chandrę przegoni nowy smartfon! Wybierz Samsung Galaxy A41 w mocnej ofercie Plusha! Nie czekaj i sprawdź teraz!	
+					        </a>
+					    </p>    
+					</div>
+					
+					<div>
+						<ul class="sub-menu inline-list clear-top">
+					  		<li><a href="http://www.wykop.pl/reklama">Wykop Sponsorowany</a></li>
+						    <li>Reklamuj się w <a href="http://www.wykop.pl/reklama">Wykop.pl</a></li> 
+						</ul>
+					</div>
+				</div>
+		        							<img src="https://www.wykop.pl/paylink/emiter/8447/14429/?ts=1603835055" />    
+														<img src="https://track.adform.net/adfserve/?bn=40384482;1x1inv=1;srctype=3;ord=1603835055" width="1" height="1" />									</div>
+</li>
+<li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5764777">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5764777/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>470</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5764777/mocne-slowa-kieleckiego-biskupa-do-protestujacych-wara-od-mojej-katedry/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603754687SrKYiNGo8Ge68Iu59O1Uxq,w207h139.jpg"
+                         alt="Mocne słowa kieleckiego biskupa do protestujących. &quot;Wara od mojej katedry&quot;">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5764777/mocne-slowa-kieleckiego-biskupa-do-protestujacych-wara-od-mojej-katedry/" rel="nofollow noopener noreferrer" title="Mocne słowa kieleckiego biskupa do protestujących. &quot;Wara od mojej katedry&quot;" >Mocne słowa kieleckiego biskupa do protestujących. &quot;Wara od mojej katedry&quot;</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/dedik/"><em>@</em>dedik</a>
+						<span class="tag create"><a class="affect" href="https://www.onet.pl/informacje/onetkielce/strajk-kobiet-mocne-slowa-kieleckiego-biskupa-do-protestujacych/zrkmn51,79cfc278" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">onet.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/onet.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/kielce/"><em>#</em>kielce</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/architektura/"><em>#</em>architektura</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/ciekawostki/"><em>#</em>ciekawostki</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/aborcja/"><em>#</em>aborcja</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5764777/mocne-slowa-kieleckiego-biskupa-do-protestujacych-wara-od-mojej-katedry/" title="">
+					Do incydentów nie doszło, ale w trakcie mszy do protestujących w mocnych słowach zwrócił się biskup...		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5764777/mocne-slowa-kieleckiego-biskupa-do-protestujacych-wara-od-mojej-katedry/"><i class="fa fa-comments-o"></i> 187 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 21:03:01" datetime="2020-10-27T21:03:01+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC hot"> <div class="article  clearfix preview   dC" data-type="link" data-id="5766911">
+        <div class="diggbox ">
+    	<i class="icon hot"></i>		<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766911/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>322</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    			<p class="icon-media play">
+		    <i class="fa fa-play"></i>
+		</p>
+		
+		<a href="https://www.wykop.pl/link/5766911/prorok-kwasniewski-przewidzial-co-zrobi-kaczynski/" rel="nofollow noopener noreferrer" title="" data-ajaxurl="https://www.wykop.pl/ajax2/embed/html/type/link/id/5766911/" class="ajax">
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603830241BXecAb135icobfAgGJJkpN,w207h139.jpg"
+                         alt="Prorok Kwaśniewski przewidział, co zrobi Kaczyński">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766911/prorok-kwasniewski-przewidzial-co-zrobi-kaczynski/" rel="nofollow noopener noreferrer" title="Prorok Kwaśniewski przewidział, co zrobi Kaczyński" >Prorok Kwaśniewski przewidział, co zrobi Kaczyński</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/tomasztomasz1234/"><em>@</em>tomasztomasz1234</a>
+						<span class="tag create"><a class="affect" href="https://streamable.com/f6rg40" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">streamable.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/streamable.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polityka/"><em>#</em>polityka</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/neuropa/"><em>#</em>neuropa</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/kwasniewski/"><em>#</em>kwasniewski</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766911/prorok-kwasniewski-przewidzial-co-zrobi-kaczynski/" title="">
+					Fragment debaty obu polityków z 2007 r.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766911/prorok-kwasniewski-przewidzial-co-zrobi-kaczynski/"><i class="fa fa-comments-o"></i> 31 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:33:02" datetime="2020-10-27T22:33:02+01:00" itemprop="datePublished">11 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766065">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766065/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>27</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766065/strajk-kobiet-przed-sejmem-szosty-dzien-protestow-przeciwko-zakazowi/" rel="nofollow " title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603809983LzOXf4qjGUdsjxcBWSLJYZ,w207h139.jpg"
+                         alt="Strajk Kobiet przed Sejmem. Szósty dzień protestów przeciwko zakazowi...">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766065/strajk-kobiet-przed-sejmem-szosty-dzien-protestow-przeciwko-zakazowi/" rel="nofollow " title="Strajk Kobiet przed Sejmem. Szósty dzień protestów przeciwko zakazowi..." >Strajk Kobiet przed Sejmem. Szósty dzień protestów przeciwko zakazowi...</a> 		</h2>
+		
+		<div class="fix-tagline">
+					<a href="https://www.wykop.pl/reklama/" class="affect" title="Przejdź do Reklama Wykop.pl">Wykop Poleca</a> 
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/janusz_z_czarnolasu/"><em>@</em>janusz_z_czarnolasu</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5766065/strajk-kobiet-przed-sejmem-szosty-dzien-protestow-przeciwko-zakazowi/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">rmf24.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/rmf24.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/pieklokobiet/"><em>#</em>pieklokobiet</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/prawo/"><em>#</em>prawo</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/wydarzenia/"><em>#</em>wydarzenia</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766065/strajk-kobiet-przed-sejmem-szosty-dzien-protestow-przeciwko-zakazowi/" title="">
+					Przed Sejmem trwa protest przeciwko decyzji Trybunału Konstytucyjnego w sprawie aborcji. Część protestujących zablokowała wjazd do gmachu parlamentu od ulicy Wiejskiej. Policja natomiast ustawiła barierki, by demonstranci nie podchodzili bliżej.  To kolejna tego typu manifestacja w...		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766065/strajk-kobiet-przed-sejmem-szosty-dzien-protestow-przeciwko-zakazowi/"><i class="fa fa-comments-o"></i> 4 komentarze</a> 
+		    <span class="affect">
+		     
+				dodany <time title="2020-10-27 15:47:13" datetime="2020-10-27T15:47:13+01:00" itemprop="datePublished">6 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766075">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766075/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>305</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766075/bezpieczenstwo-i-higiena-pracy-to-podstawa/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603810173pE3C0qd8a6BHCwqVOcZyf9,w207h139.jpg"
+                         alt="Bezpieczeństwo i Higiena Pracy to podstawa">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766075/bezpieczenstwo-i-higiena-pracy-to-podstawa/" rel="nofollow noopener noreferrer" title="Bezpieczeństwo i Higiena Pracy to podstawa" >Bezpieczeństwo i Higiena Pracy to podstawa</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/stilewski/"><em>@</em>stilewski</a>
+						<span class="tag create"><a class="affect" href="https://video.twimg.com/ext_tw_video/1321080668500144128/pu/vid/720x480/lriBCWlbP-MmGvVX.mp4?tag=10" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">video.twimg.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/video.twimg.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/sejm/"><em>#</em>sejm</a>
+								    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766075/bezpieczenstwo-i-higiena-pracy-to-podstawa/" title="">
+					źródło nie moje		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766075/bezpieczenstwo-i-higiena-pracy-to-podstawa/"><i class="fa fa-comments-o"></i> 77 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:17:02" datetime="2020-10-27T22:17:02+01:00" itemprop="datePublished">27 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC hot"> <div class="article  clearfix preview   dC" data-type="link" data-id="5766977">
+        <div class="diggbox ">
+    	<i class="icon hot"></i>		<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766977/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>801</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766977/kibice-radomiaka-popieraja-strajk-kobiet-w-radomiu/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603831898Il00r2MWkwqMTIsT2ubIFg,w207h139.jpg"
+                         alt="Kibice Radomiaka popierają Strajk Kobiet w Radomiu">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766977/kibice-radomiaka-popieraja-strajk-kobiet-w-radomiu/" rel="nofollow noopener noreferrer" title="Kibice Radomiaka popierają Strajk Kobiet w Radomiu" >Kibice Radomiaka popierają Strajk Kobiet w Radomiu</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/Klimbert/"><em>@</em>Klimbert</a>
+						<span class="tag create"><a class="affect" href="https://www.facebook.com/story.php?story_fbid=1488885314639330&id=298600733667800&locale2=pl_PL" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">facebook.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/facebook.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/radom/"><em>#</em>radom</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/aborcja/"><em>#</em>aborcja</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="affect tag create unhide">+3 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766977/kibice-radomiaka-popieraja-strajk-kobiet-w-radomiu/" title="">
+					Rzeczpospolita Babska ...   Każdy facet jest na tyle silny na ile silna Kobieta za nim stoi.  Dziś Dziewczyny stoimy za Wami. Wspieramy Wasze działania i postulaty stojąc jak zawsze w opozycji do systemu szczególnie w sytuacji walki o nasze prawa.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766977/kibice-radomiaka-popieraja-strajk-kobiet-w-radomiu/"><i class="fa fa-comments-o"></i> 71 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:14:01" datetime="2020-10-27T22:14:01+01:00" itemprop="datePublished">30 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766751">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766751/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>273</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    			<p class="icon-media play">
+		    <i class="fa fa-play"></i>
+		</p>
+		
+		<a href="https://www.wykop.pl/link/5766751/wzorowy-korytarz-zycia-podczas-protestu-w-obronie-praw-kobiet-w-gdansku/" rel="nofollow noopener noreferrer" title="" data-ajaxurl="https://www.wykop.pl/ajax2/embed/html/type/link/id/5766751/" class="ajax">
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603826694KF16IaqJVOkK8LpaWP2tvB,w207h139.jpg"
+                         alt="Wzorowy korytarz życia podczas protestu w obronie praw kobiet w Gdańsku.">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766751/wzorowy-korytarz-zycia-podczas-protestu-w-obronie-praw-kobiet-w-gdansku/" rel="nofollow noopener noreferrer" title="Wzorowy korytarz życia podczas protestu w obronie praw kobiet w Gdańsku." >Wzorowy korytarz życia podczas protestu w obronie praw kobiet w Gdańsku.</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/piotr1900/"><em>@</em>piotr1900</a>
+						<span class="tag create"><a class="affect" href="http://www.youtube.com/watch?v=BA0Ek-fYBrg" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">youtube.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/youtube.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/gdansk/"><em>#</em>gdansk</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/motoryzacja/"><em>#</em>motoryzacja</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="affect tag create unhide">+2 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766751/wzorowy-korytarz-zycia-podczas-protestu-w-obronie-praw-kobiet-w-gdansku/" title="">
+					Gdańsk 27.10.2020 aleja Rzeczypospolitej i protest w obronie praw kobiet -wolno jadące i trąbiące pojazdy we wzorowy sposób tworzą korytarz życia przed nadjeżdżającą karetką i zawieszają używanie klaksonów.  Gdańsk 27.10.2020.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766751/wzorowy-korytarz-zycia-podczas-protestu-w-obronie-praw-kobiet-w-gdansku/"><i class="fa fa-comments-o"></i> 46 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:25:02" datetime="2020-10-27T22:25:02+01:00" itemprop="datePublished">19 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765329">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765329/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>189</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765329/nasa-odkryla-wode-na-ksiezycu/" rel="nofollow " title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603791752YY6LA8Mo3MkHZD3D3YrXC0,w207h139.jpg"
+                         alt="NASA odkryła wodę na Księżycu">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765329/nasa-odkryla-wode-na-ksiezycu/" rel="nofollow " title="NASA odkryła wodę na Księżycu" >NASA odkryła wodę na Księżycu</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2001 affect" href="https://www.wykop.pl/ludzie/Anywherepl/"><em>@</em>Anywherepl</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5765329/nasa-odkryla-wode-na-ksiezycu/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">anywhere.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/anywhere.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/swiat/"><em>#</em>swiat</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/nasa/"><em>#</em>nasa</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/astronomia/"><em>#</em>astronomia</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/nauka/"><em>#</em>nauka</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/kosmos/"><em>#</em>kosmos</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/ciekawostki/"><em>#</em>ciekawostki</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765329/nasa-odkryla-wode-na-ksiezycu/" title="">
+					Na Księżycu znaleziono zbiór „pułapek wodnych”, które stabilnie chronią przetrzymywaną w nich wodę. Nowe badania wskazują, że może być ona rozprowadzana bezpośrednio po powierzchni Księżyca i dają nadzieję na wykorzystanie jej podczas przyszłych podróży kosmicznych.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765329/nasa-odkryla-wode-na-ksiezycu/"><i class="fa fa-comments-o"></i> 23 komentarze</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:23:02" datetime="2020-10-27T22:23:02+01:00" itemprop="datePublished">21 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC hot"> <div class="article  clearfix preview   dC" data-type="link" data-id="5766763">
+        <div class="diggbox ">
+    	<i class="icon hot"></i>		<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766763/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>1424</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    			<p class="icon-media play">
+		    <i class="fa fa-play"></i>
+		</p>
+		
+		<a href="https://www.wykop.pl/rejestracja/" rel="nofollow noopener noreferrer" title="" data-ajaxurl="https://www.wykop.pl/ajax2/embed/html/type/link/id/5766763/" class="ajax">
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c2526412/18-plus,w207h139.jpg"
+                         alt="Niepublikowany fragment przemówienia">
+                		</a>
+	</div>
+
+            <div class="lcontrast m-reset-margin">
+            <div class="description hide18unlogged">
+                <p class="hide18unlogged_p1">Zawiera treści przeznaczone dla osób pełnoletnich.</p>
+                <p class="hide18unlogged_p2">Aby uzyskać dostęp, <a href="https://www.wykop.pl/rejestracja/">zaloguj się</a> lub <a href="https://www.wykop.pl/rejestracja/">załóż konto</a>.</p>
+                <a href="https://www.wykop.pl/rejestracja/" class="hide18unlogged_cta"><input type="submit" value="Załóż konto"/></a>
+            </div>
+        </div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766657">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766657/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>457</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766657/szymon-holownia-o-oredziu-kaczynskiego/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603824368VDLTguJOivZharvHkEEpCj,w207h139.jpg"
+                         alt="Szymon Hołownia o orędziu Kaczyńskiego!">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766657/szymon-holownia-o-oredziu-kaczynskiego/" rel="nofollow noopener noreferrer" title="Szymon Hołownia o orędziu Kaczyńskiego!" >Szymon Hołownia o orędziu Kaczyńskiego!</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/secretID3ntity/"><em>@</em>secretID3ntity</a>
+						<span class="tag create"><a class="affect" href="https://www.facebook.com/szymonholowniaoficjalny/videos/347827376471819/?_fb_noscript=1" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">facebook.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/facebook.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polityka/"><em>#</em>polityka</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+								    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766657/szymon-holownia-o-oredziu-kaczynskiego/" title="">
+					Szymon Hołownia o orędziu Kaczyńskiego!		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766657/szymon-holownia-o-oredziu-kaczynskiego/"><i class="fa fa-comments-o"></i> 61 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 21:37:02" datetime="2020-10-27T21:37:02+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765483">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765483/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>220</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/" rel="nofollow " title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603795411ABISDDMjAlmMOTBaAoCC4i,w207h139.jpg"
+                         alt="Nie mają litości dla Agaty i Kingi Dudów. Zamieścili wymowny żart">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/" rel="nofollow " title="Nie mają litości dla Agaty i Kingi Dudów. Zamieścili wymowny żart" >Nie mają litości dla Agaty i Kingi Dudów. Zamieścili wymowny żart</a> 		</h2>
+		
+		<div class="fix-tagline">
+					<a href="https://www.wykop.pl/reklama/" class="affect" title="Przejdź do Reklama Wykop.pl">Wykop Poleca</a> 
+							            			<a class="color-2001 affect" href="https://www.wykop.pl/ludzie/WirtualnaPolska/"><em>@</em>WirtualnaPolska</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">gwiazdy.wp.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/gwiazdy.wp.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/kultura/"><em>#</em>kultura</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/rozrywka/"><em>#</em>rozrywka</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/pieklokobiet/"><em>#</em>pieklokobiet</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/strajkkobiet/"><em>#</em>strajkkobiet</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/aborcja/"><em>#</em>aborcja</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/" title="">
+					Członkowie kabaretu Ani Mru Mru opowiadają się przeciwko rządzącym i potrafią zamanifestować swoje poglądy zarówno dobitnie, jak i żartobliwie. Tym razem oberwało się żonie i córce prezydenta Polski.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765483/nie-maja-litosci-dla-agaty-i-kingi-dudow-zamiescili-wymowny-zart/"><i class="fa fa-comments-o"></i> 35 komentarzy</a> 
+		    <span class="affect">
+		     
+				dodany <time title="2020-10-27 11:44:00" datetime="2020-10-27T11:44:00+01:00" itemprop="datePublished">11 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5764915">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5764915/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>194</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5764915/mial-grozic-robertowi-lewandowskiemu-policja-zatrzymala-cezarego-k/" rel="nofollow " title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603778675FyepoqvNvsHERYYUvrITDV,w207h139.jpg"
+                         alt="Miał grozić Robertowi Lewandowskiemu. Policja zatrzymała Cezarego K.">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5764915/mial-grozic-robertowi-lewandowskiemu-policja-zatrzymala-cezarego-k/" rel="nofollow " title="Miał grozić Robertowi Lewandowskiemu. Policja zatrzymała Cezarego K." >Miał grozić Robertowi Lewandowskiemu. Policja zatrzymała Cezarego K.</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/veiru/"><em>@</em>veiru</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5764915/mial-grozic-robertowi-lewandowskiemu-policja-zatrzymala-cezarego-k/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">rmf24.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/rmf24.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/robertlewandowski/"><em>#</em>robertlewandowski</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/sport/"><em>#</em>sport</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/pilkanozna/"><em>#</em>pilkanozna</a>
+						<a class="affect tag create unhide">+2 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5764915/mial-grozic-robertowi-lewandowskiemu-policja-zatrzymala-cezarego-k/" title="">
+					Na polecenie Prokuratury Regionalnej w Warszawie policjanci komendy społecznej zatrzymali Cezarego K. - byłego piłkarza reprezentacji Polski. Ma to związek z prowadzonym od kilku tygodni śledztwem ws. kierowania gróźb karalnych wobec Roberta Lewandowskiego.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5764915/mial-grozic-robertowi-lewandowskiemu-policja-zatrzymala-cezarego-k/"><i class="fa fa-comments-o"></i> 67 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 21:37:02" datetime="2020-10-27T21:37:02+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766737">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766737/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>279</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766737/prof-simon-protesty-to-nie-jest-jakies-istotne-zagrozenie/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603825469PieYUGQWIboO8RGULzRFri,w207h139.jpg"
+                         alt="Prof. Simon: Protesty to nie jest jakieś istotne zagrożenie">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766737/prof-simon-protesty-to-nie-jest-jakies-istotne-zagrozenie/" rel="nofollow noopener noreferrer" title="Prof. Simon: Protesty to nie jest jakieś istotne zagrożenie" >Prof. Simon: Protesty to nie jest jakieś istotne zagrożenie</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/retzev/"><em>@</em>retzev</a>
+						<span class="tag create"><a class="affect" href="https://www.rp.pl/Koronawirus-SARS-CoV-2/201029379-Prof-Simon-Protesty-to-nie-jest-jakies-istotne-zagrozenie.html" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">rp.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/rp.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/bekazpodludzi/"><em>#</em>bekazpodludzi</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/koronawirus/"><em>#</em>koronawirus</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/covid19/"><em>#</em>covid19</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/medycyna/"><em>#</em>medycyna</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766737/prof-simon-protesty-to-nie-jest-jakies-istotne-zagrozenie/" title="">
+					Nagła zmiana zdania. Kilka dni temu twierdził, że &quot;bezwzględnie trzeba wymagać od społeczeństwa przestrzegania restrykcji&quot;.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766737/prof-simon-protesty-to-nie-jest-jakies-istotne-zagrozenie/"><i class="fa fa-comments-o"></i> 74 komentarze</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:01:00" datetime="2020-10-27T22:01:00+01:00" itemprop="datePublished">43 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766713">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766713/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>628</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    			<p class="icon-media play">
+		    <i class="fa fa-play"></i>
+		</p>
+		
+		<a href="https://www.wykop.pl/link/5766713/mamy-do-czynienia-z-oznakami-satanizmu/" rel="nofollow noopener noreferrer" title="" data-ajaxurl="https://www.wykop.pl/ajax2/embed/html/type/link/id/5766713/" class="ajax">
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603825819T0aOYwIiDZwvYj04b81puX,w207h139.jpg"
+                         alt="Mamy do czynienia z oznakami Satanizmu!">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766713/mamy-do-czynienia-z-oznakami-satanizmu/" rel="nofollow noopener noreferrer" title="Mamy do czynienia z oznakami Satanizmu!" >Mamy do czynienia z oznakami Satanizmu!</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/KarmaDorje/"><em>@</em>KarmaDorje</a>
+						<span class="tag create"><a class="affect" href="https://streamable.com/uemuyk" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">streamable.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/streamable.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/strajkkobiet/"><em>#</em>strajkkobiet</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/tvpiscodzienny/"><em>#</em>tvpiscodzienny</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/tvpis/"><em>#</em>tvpis</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/beka/"><em>#</em>beka</a>
+						<a class="affect tag create unhide">+3 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766713/mamy-do-czynienia-z-oznakami-satanizmu/" title="">
+					Przemysław Czarnek odpływa jeszcze bardziej		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766713/mamy-do-czynienia-z-oznakami-satanizmu/"><i class="fa fa-comments-o"></i> 74 komentarze</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 21:45:02" datetime="2020-10-27T21:45:02+01:00" itemprop="datePublished">59 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766669">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766669/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>427</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    			<p class="icon-media play">
+		    <i class="fa fa-play"></i>
+		</p>
+		
+		<a href="https://www.wykop.pl/link/5766669/male-dzieci-na-protestach/" rel="nofollow noopener noreferrer" title="" data-ajaxurl="https://www.wykop.pl/ajax2/embed/html/type/link/id/5766669/" class="ajax">
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_16038249827fhFCBQjB6PX882BUsU6oY,w207h139.jpg"
+                         alt="Małe dzieci na protestach.">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766669/male-dzieci-na-protestach/" rel="nofollow noopener noreferrer" title="Małe dzieci na protestach." >Małe dzieci na protestach.</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/Sympatyczna_Kapibara/"><em>@</em>Sympatyczna_Kapibara</a>
+						<span class="tag create"><a class="affect" href="https://streamable.com/pr5rew" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">streamable.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/streamable.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazlewactwa/"><em>#</em>bekazlewactwa</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazpodludzi/"><em>#</em>bekazpodludzi</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/aborcja/"><em>#</em>aborcja</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/4konserwy/"><em>#</em>4konserwy</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766669/male-dzieci-na-protestach/" title="">
+					Głupie karyny nie bierzcie swoich dzieci na takie zadymy		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766669/male-dzieci-na-protestach/"><i class="fa fa-comments-o"></i> 72 komentarze</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 21:42:02" datetime="2020-10-27T21:42:02+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5764759">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5764759/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>426</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    			<p class="icon-media play">
+		    <i class="fa fa-play"></i>
+		</p>
+		
+		<a href="https://www.wykop.pl/link/5764759/gol-schrodingera/" rel="nofollow noopener noreferrer" title="" data-ajaxurl="https://www.wykop.pl/ajax2/embed/html/type/link/id/5764759/" class="ajax">
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603753708kJbIeyHbobAU1ugrytRcsD,w207h139.jpg"
+                         alt="Gol Schrödingera">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5764759/gol-schrodingera/" rel="nofollow noopener noreferrer" title="Gol Schrödingera" >Gol Schrödingera</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/franekfm/"><em>@</em>franekfm</a>
+						<span class="tag create"><a class="affect" href="http://www.youtube.com/watch?v=ul2X2i4KERo" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">youtube.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/youtube.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/pilkanozna/"><em>#</em>pilkanozna</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/heheszki/"><em>#</em>heheszki</a>
+								    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5764759/gol-schrodingera/" title="">
+					opis musi być		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5764759/gol-schrodingera/"><i class="fa fa-comments-o"></i> 22 komentarze</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 21:09:02" datetime="2020-10-27T21:09:02+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC hot"> <div class="article  clearfix preview   dC" data-type="link" data-id="5766641">
+        <div class="diggbox ">
+    	<i class="icon hot"></i>		<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766641/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>1247</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    			<p class="icon-media play">
+		    <i class="fa fa-play"></i>
+		</p>
+		
+		<a href="https://www.wykop.pl/link/5766641/tvpis-opozycja-gra-zdrowiem-i-zyciem-polakow/" rel="nofollow noopener noreferrer" title="" data-ajaxurl="https://www.wykop.pl/ajax2/embed/html/type/link/id/5766641/" class="ajax">
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603824102yf9edlmEfl5CR09cKVf7RI,w207h139.jpg"
+                         alt="TVPIS: &quot;OPOZYCJA GRA ZDROWIEM I ŻYCIEM POLAKÓW&quot;">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766641/tvpis-opozycja-gra-zdrowiem-i-zyciem-polakow/" rel="nofollow noopener noreferrer" title="TVPIS: &quot;OPOZYCJA GRA ZDROWIEM I ŻYCIEM POLAKÓW&quot;" >TVPIS: &quot;OPOZYCJA GRA ZDROWIEM I ŻYCIEM POLAKÓW&quot;</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/Nevak/"><em>@</em>Nevak</a>
+						<span class="tag create"><a class="affect" href="http://www.youtube.com/watch?v=fAC03xbb8lg" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">youtube.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/youtube.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/neuropa/"><em>#</em>neuropa</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/tvpis/"><em>#</em>tvpis</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/koronawirus/"><em>#</em>koronawirus</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/polityka/"><em>#</em>polityka</a>
+						<a class="affect tag create unhide">+3 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766641/tvpis-opozycja-gra-zdrowiem-i-zyciem-polakow/" title="">
+					samo geste		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766641/tvpis-opozycja-gra-zdrowiem-i-zyciem-polakow/"><i class="fa fa-comments-o"></i> 72 komentarze</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 20:30:02" datetime="2020-10-27T20:30:02+01:00" itemprop="datePublished">2 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765167">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765167/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>39</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765167/zagadka-katastrofy-lotniczej-sprzed-101-lat-rozwiazana/" rel="nofollow " title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603787806H3JCTrhPefnhm1RBToSVTg,w207h139.jpg"
+                         alt="Zagadka katastrofy lotniczej sprzed 101 lat rozwiązana">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765167/zagadka-katastrofy-lotniczej-sprzed-101-lat-rozwiazana/" rel="nofollow " title="Zagadka katastrofy lotniczej sprzed 101 lat rozwiązana" >Zagadka katastrofy lotniczej sprzed 101 lat rozwiązana</a> 		</h2>
+		
+		<div class="fix-tagline">
+					<a href="https://www.wykop.pl/reklama/" class="affect" title="Przejdź do Reklama Wykop.pl">Wykop Poleca</a> 
+							            			<a class="color-2001 affect" href="https://www.wykop.pl/ludzie/regiony/"><em>@</em>regiony</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5765167/zagadka-katastrofy-lotniczej-sprzed-101-lat-rozwiazana/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">regiony.tvp.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/regiony.tvp.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/ciekawostki/"><em>#</em>ciekawostki</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/ciekawostkihistoryczne/"><em>#</em>ciekawostkihistoryczne</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/historia/"><em>#</em>historia</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/lotnictwo/"><em>#</em>lotnictwo</a>
+						<a class="affect tag create unhide">+3 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765167/zagadka-katastrofy-lotniczej-sprzed-101-lat-rozwiazana/" title="">
+					Lasy w całej Polsce skrywają wiele tajemnic. Jedną z nich do niedawna ukrywały lasy katowickiego Nadleśnictwa Rudy Raciborskie. Była to dokładna lokalizacja miejsca katastrofy wielkiego aeroplanu, który miał się rozbić się w lesie pomiędzy Rudami a Kuźnią Raciborską.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765167/zagadka-katastrofy-lotniczej-sprzed-101-lat-rozwiazana/"><i class="fa fa-comments-o"></i> 4 komentarze</a> 
+		    <span class="affect">
+		     
+				dodany <time title="2020-10-27 09:38:31" datetime="2020-10-27T09:38:31+01:00" itemprop="datePublished">13 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5764801">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5764801/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>131</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5764801/usa-szescioro-konserwatystow-w-sadzie-najwyzszym-amy-coney-barrett/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603758264PauT6S2AAzwOHjmi9b62Qa,w207h139.jpg"
+                         alt="USA: Sześcioro konserwatystów w Sądzie Najwyższym. Amy Coney Barrett...">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5764801/usa-szescioro-konserwatystow-w-sadzie-najwyzszym-amy-coney-barrett/" rel="nofollow noopener noreferrer" title="USA: Sześcioro konserwatystów w Sądzie Najwyższym. Amy Coney Barrett..." >USA: Sześcioro konserwatystów w Sądzie Najwyższym. Amy Coney Barrett...</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/lekkonieobecny/"><em>@</em>lekkonieobecny</a>
+						<span class="tag create"><a class="affect" href="https://www.onet.pl/informacje/onetwiadomosci/usa-amy-coney-barrett-oficjalnie-sedzia-sadu-najwyzszego/7cfhzgp,79cfc278" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">onet.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/onet.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/usa/"><em>#</em>usa</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/swiat/"><em>#</em>swiat</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/4konserwy/"><em>#</em>4konserwy</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/neuropa/"><em>#</em>neuropa</a>
+						<a class="affect tag create unhide">+2 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5764801/usa-szescioro-konserwatystow-w-sadzie-najwyzszym-amy-coney-barrett/" title="">
+					Po śmierci Ruth Bader Ginsburg Senat USA oficjalnie mianował na jej miejsce w Sądzie Najwyższym Amy Coney Barrett, 48-letnią sędzię z Luizjany. Oznacza to przewagę sędziów o konserwatywnych poglądach w Sądzie w stosunku 6-3.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5764801/usa-szescioro-konserwatystow-w-sadzie-najwyzszym-amy-coney-barrett/"><i class="fa fa-comments-o"></i> 25 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:10:02" datetime="2020-10-27T22:10:02+01:00" itemprop="datePublished">34 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765055">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765055/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>287</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765055/papiez-franciszek-nie-dopuszcza-kompromisu-ws-aborcji/" rel="nofollow " title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603784739Q7mJt9e4emAk1lqKfxiDbq,w207h139.jpg"
+                         alt="Papież Franciszek nie dopuszcza kompromisu ws. aborcji">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765055/papiez-franciszek-nie-dopuszcza-kompromisu-ws-aborcji/" rel="nofollow " title="Papież Franciszek nie dopuszcza kompromisu ws. aborcji" >Papież Franciszek nie dopuszcza kompromisu ws. aborcji</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/Serghio/"><em>@</em>Serghio</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5765055/papiez-franciszek-nie-dopuszcza-kompromisu-ws-aborcji/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">wiadomosci.wp.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/wiadomosci.wp.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/4konserwy/"><em>#</em>4konserwy</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polityka/"><em>#</em>polityka</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/katolicyzm/"><em>#</em>katolicyzm</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/aborcja/"><em>#</em>aborcja</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/kosciol/"><em>#</em>kosciol</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765055/papiez-franciszek-nie-dopuszcza-kompromisu-ws-aborcji/" title="">
+					Wszystkim mówiącym o nadchodzącej schizmie Kościoła Katolickiego w Polsce przypominamy Papież był, jest i będzie przeciwko aborcji w każdej formie. Nic się w tym temacie od ponad tysięcy lat nie zmieniło i nie zmieni.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765055/papiez-franciszek-nie-dopuszcza-kompromisu-ws-aborcji/"><i class="fa fa-comments-o"></i> 83 komentarze</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 20:46:01" datetime="2020-10-27T20:46:01+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766585">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766585/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>385</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766585/prezydent-krakowa-pozwala-pracownicom-urzedow-dolaczyc-do-srodowego-strajku/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603821897fZRrZ7mmoJYOMkuaFVWDIi,w207h139.jpg"
+                         alt="Prezydent Krakowa pozwala pracownicom urzędów dołączyć do środowego strajku">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766585/prezydent-krakowa-pozwala-pracownicom-urzedow-dolaczyc-do-srodowego-strajku/" rel="nofollow noopener noreferrer" title="Prezydent Krakowa pozwala pracownicom urzędów dołączyć do środowego strajku" >Prezydent Krakowa pozwala pracownicom urzędów dołączyć do środowego strajku</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/wojciechka1/"><em>@</em>wojciechka1</a>
+						<span class="tag create"><a class="affect" href="https://cowkrakowie.pl/2020/10/prezydent-krakowa-wypowiedzial-sie-w-sprawie-strajku-kobiet/" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">cowkrakowie.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/cowkrakowie.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/krakow/"><em>#</em>krakow</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/polityka/"><em>#</em>polityka</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/aborcja/"><em>#</em>aborcja</a>
+						<a class="affect tag create unhide">+3 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766585/prezydent-krakowa-pozwala-pracownicom-urzedow-dolaczyc-do-srodowego-strajku/" title="">
+					&quot;(...) każda pracownica urzędu, która będzie chciała dołączyć do tej inicjatywy, ma do tego pełne prawo. Nie będę utrudniał ani zniechęcał do przystąpienia do strajku i mam nadzieję, że tak samo postąpią też inni krakowscy pracodawcy&quot;. Straż miejska zakaz pomocy policji w ochronie obiektów.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766585/prezydent-krakowa-pozwala-pracownicom-urzedow-dolaczyc-do-srodowego-strajku/"><i class="fa fa-comments-o"></i> 39 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 21:49:02" datetime="2020-10-27T21:49:02+01:00" itemprop="datePublished">55 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765847">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765847/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>463</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765847/pis-tymczasowo-zamraza-piatke-kaczynskiego/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603803942sISPNUa8CwMuUUjZFVMQfB,w207h139.jpg"
+                         alt="PiS tymczasowo &quot;zamraża&quot; piątkę Kaczyńskiego">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765847/pis-tymczasowo-zamraza-piatke-kaczynskiego/" rel="nofollow noopener noreferrer" title="PiS tymczasowo &quot;zamraża&quot; piątkę Kaczyńskiego" >PiS tymczasowo &quot;zamraża&quot; piątkę Kaczyńskiego</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/pacjent_0/"><em>@</em>pacjent_0</a>
+						<span class="tag create"><a class="affect" href="https://www.onet.pl/informacje/onetwiadomosci/piatka-dla-zwierzat-i-wybor-rpo-pis-zmienia-plany-po-protestach/89yxt50,79cfc278" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">onet.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/onet.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/rolnictwo/"><em>#</em>rolnictwo</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/polityka/"><em>#</em>polityka</a>
+						<a class="affect tag create unhide">+2 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765847/pis-tymczasowo-zamraza-piatke-kaczynskiego/" title="">
+					Prawo i Sprawiedliwość wycofało się z planowanego na jutro w Sejmie głosowania nad &quot;5 Kaczyńskiego&quot;. To stary numer sejmu z wrzuceniem ustawy do &quot;zamrażarki&quot;, skąd może być wyciągnięta w niespodziewanym momencie. Czyżby protesty działały?		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765847/pis-tymczasowo-zamraza-piatke-kaczynskiego/"><i class="fa fa-comments-o"></i> 60 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 20:58:01" datetime="2020-10-27T20:58:01+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5766089">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5766089/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>310</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5766089/pobil-rabina-wspiera-rosje-w-niedziele-z-narodowcami-bronil-kosciola/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603810419EMXaa2J7X5W9jFJRWUwJa1,w207h139.jpg"
+                         alt="Pobił rabina, wspiera Rosję. W niedzielę z narodowcami bronił kościoła">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5766089/pobil-rabina-wspiera-rosje-w-niedziele-z-narodowcami-bronil-kosciola/" rel="nofollow noopener noreferrer" title="Pobił rabina, wspiera Rosję. W niedzielę z narodowcami bronił kościoła" >Pobił rabina, wspiera Rosję. W niedzielę z narodowcami bronił kościoła</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/Szewczenko/"><em>@</em>Szewczenko</a>
+						<span class="tag create"><a class="affect" href="https://tvn24.pl/najnowsze/protest-przed-kosciolem-swietego-krzyza-sylwetka-narodowca-karola-g-4733376" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">tvn24.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/tvn24.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/protest/"><em>#</em>protest</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazpisu/"><em>#</em>bekazpisu</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/neuropa/"><em>#</em>neuropa</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/bekazlewactwa/"><em>#</em>bekazlewactwa</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/wydarzenia/"><em>#</em>wydarzenia</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5766089/pobil-rabina-wspiera-rosje-w-niedziele-z-narodowcami-bronil-kosciola/" title="">
+					Karol G. ma na swoim koncie wyrok za napad na naczelnego rabina Polski Michaela Schudricha, koledzy wspominają jego udział w demonstracjach poparcia dla irackiego dyktatora Saddama Husajna. Na swoim facebookowym koncie wspiera między innymi Rosję, Łukaszenkę i rząd Syrii. W niedzielę był w gronie...		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5766089/pobil-rabina-wspiera-rosje-w-niedziele-z-narodowcami-bronil-kosciola/"><i class="fa fa-comments-o"></i> 34 komentarze</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:04:01" datetime="2020-10-27T22:04:01+01:00" itemprop="datePublished">40 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765867">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765867/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>600</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765867/siostrzeniec-morawieckiego-na-protescie-od-poczatku-strajkuje/" rel="nofollow " title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603804288YguTaIXVnS3NPFbb2TXCYs,w207h139.jpg"
+                         alt="Siostrzeniec Morawieckiego na proteście. &quot;Od początku strajkuję&quot;">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765867/siostrzeniec-morawieckiego-na-protescie-od-poczatku-strajkuje/" rel="nofollow " title="Siostrzeniec Morawieckiego na proteście. &quot;Od początku strajkuję&quot;" >Siostrzeniec Morawieckiego na proteście. &quot;Od początku strajkuję&quot;</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2001 affect" href="https://www.wykop.pl/ludzie/o2-pl/"><em>@</em>o2-pl</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5765867/siostrzeniec-morawieckiego-na-protescie-od-poczatku-strajkuje/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">o2.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/o2.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/europa/"><em>#</em>europa</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/swiat/"><em>#</em>swiat</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/polityka/"><em>#</em>polityka</a>
+						<a class="affect tag create unhide">+2 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765867/siostrzeniec-morawieckiego-na-protescie-od-poczatku-strajkuje/" title="">
+					W poniedziałek 26 października w całej Polsce odbyły się protesty przeciw wyrokowi Trybunału Konstytucyjnego w sprawie aborcji. We Wrocławiu do protestujących przyłączył się siostrzeniec premiera Mateusza Morawieckiego, Franek Broda.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765867/siostrzeniec-morawieckiego-na-protescie-od-poczatku-strajkuje/"><i class="fa fa-comments-o"></i> 38 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 20:20:02" datetime="2020-10-27T20:20:02+01:00" itemprop="datePublished">2 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765175">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765175/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>405</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    			<p class="icon-media play">
+		    <i class="fa fa-play"></i>
+		</p>
+		
+		<a href="https://www.wykop.pl/link/5765175/autumn-2020/" rel="nofollow noopener noreferrer" title="" data-ajaxurl="https://www.wykop.pl/ajax2/embed/html/type/link/id/5765175/" class="ajax">
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603788097y3M8yzRU2UNMkNxt3siWA0,w207h139.jpg"
+                         alt="Autumn 2020">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765175/autumn-2020/" rel="nofollow noopener noreferrer" title="Autumn 2020" >Autumn 2020</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/Flugy/"><em>@</em>Flugy</a>
+						<span class="tag create"><a class="affect" href="http://www.youtube.com/watch?v=f0wyBJetbHI" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">youtube.com</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/youtube.com/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/apetor/"><em>#</em>apetor</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/norway/"><em>#</em>norway</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/hiking/"><em>#</em>hiking</a>
+						<a class="affect tag create unhide">+1 inny</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765175/autumn-2020/" title="">
+					Filmed September 20-October 25 in Sandefjord, Norway.  Location of stone cabin.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765175/autumn-2020/"><i class="fa fa-comments-o"></i> 38 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 20:52:02" datetime="2020-10-27T20:52:02+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765791">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765791/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>246</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765791/rzeczniczka-pis-jedyne-postulaty-protestujacych-to-robienie-burd/" rel="nofollow noopener noreferrer" title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603802929lLNQTVRTLfKdmYC21ZsJCR,w207h139.jpg"
+                         alt="Rzeczniczka PiS: jedyne postulaty protestujących to robienie burd">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765791/rzeczniczka-pis-jedyne-postulaty-protestujacych-to-robienie-burd/" rel="nofollow noopener noreferrer" title="Rzeczniczka PiS: jedyne postulaty protestujących to robienie burd" >Rzeczniczka PiS: jedyne postulaty protestujących to robienie burd</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-1 affect" href="https://www.wykop.pl/ludzie/brightside/"><em>@</em>brightside</a>
+						<span class="tag create"><a class="affect" href="https://www.onet.pl/informacje/onetwiadomosci/strajk-kobiet-rzeczniczka-pis-jedyne-postulaty-protestujacych-to-robienie-burd/gkk37qm,79cfc278" title="Otwórz źródło znaleziska" rel="nofollow noopener noreferrer" target="_blank">onet.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/onet.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polityka/"><em>#</em>polityka</a>
+								    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765791/rzeczniczka-pis-jedyne-postulaty-protestujacych-to-robienie-burd/" title="">
+					Jedynymi postulatami jest robienie burd na ulicach, atakowanie świątyń, zakłócanie mszy świętych i niszczenie mienia - powiedziała rzeczniczka PiS Anita Czerwińska o protestach w obronie praw kobiet.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765791/rzeczniczka-pis-jedyne-postulaty-protestujacych-to-robienie-burd/"><i class="fa fa-comments-o"></i> 24 komentarze</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 21:44:01" datetime="2020-10-27T21:44:01+01:00" itemprop="datePublished">1 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765211">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765211/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>152</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765211/czynsz-za-1-zl-gdansk-pomaga-przedsiebiorcom/" rel="nofollow " title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603788902wQ2liKqNIiLtU35lNg4cbs,w207h139.jpg"
+                         alt="Czynsz za 1 zł. Gdańsk pomaga przedsiębiorcom">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765211/czynsz-za-1-zl-gdansk-pomaga-przedsiebiorcom/" rel="nofollow " title="Czynsz za 1 zł. Gdańsk pomaga przedsiębiorcom" >Czynsz za 1 zł. Gdańsk pomaga przedsiębiorcom</a> 		</h2>
+		
+		<div class="fix-tagline">
+							            			<a class="color-2 affect" href="https://www.wykop.pl/ludzie/podjaranykot/"><em>@</em>podjaranykot</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5765211/czynsz-za-1-zl-gdansk-pomaga-przedsiebiorcom/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">rmf24.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/rmf24.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/ekonomia/"><em>#</em>ekonomia</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/polityka/"><em>#</em>polityka</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/gospodarka/"><em>#</em>gospodarka</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/finanse/"><em>#</em>finanse</a>
+						<a class="affect tag create unhide">+3 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765211/czynsz-za-1-zl-gdansk-pomaga-przedsiebiorcom/" title="">
+					Przedsiębiorcy z branży gastronomicznej i innych, wynajmujący lokale miejskie w Gdańsku, będą mieli w listopadzie obniżony czynsz do 1 zł - poinformowała Aleksandra Strug z komunalnej spółki Gdańskie Nieruchomości.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765211/czynsz-za-1-zl-gdansk-pomaga-przedsiebiorcom/"><i class="fa fa-comments-o"></i> 9 komentarzy</a> 
+		    <span class="affect">
+		    		    	opublikowany <time title="2020-10-27 22:11:01" datetime="2020-10-27T22:11:01+01:00" itemprop="datePublished">33 min. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li><li class="link iC "> <div class="article  clearfix preview   dC" data-type="link" data-id="5765939">
+        <div class="diggbox ">
+    			<a href="https://www.wykop.pl/rejestracja/" data-ajaxurl="https://www.wykop.pl/ajax2/links/voteUp/5765939/hash/9228f8a28ce1a83dd54994bd156edaa2-1603835055/" title="wykop to znalezisko" >
+		    <span>36</span>
+		    		    <span class="button button submit">wykop</span>
+		    		</a>
+		    </div>
+		    
+    <div class="media-content m-reset-float ">
+    	
+		<a href="https://www.wykop.pl/link/5765939/truciciel-zwierzat-grasuje-w-parku/" rel="nofollow " title="" >
+                                <img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_16038063896BGrgHCApNZVgff8kDNhhw,w207h139.jpg"
+                         alt="Truciciel zwierząt grasuje w parku">
+                		</a>
+	</div>
+
+    	<div class="lcontrast m-reset-margin">
+		<h2>
+		    <a href="https://www.wykop.pl/link/5765939/truciciel-zwierzat-grasuje-w-parku/" rel="nofollow " title="Truciciel zwierząt grasuje w parku" >Truciciel zwierząt grasuje w parku</a> 		</h2>
+		
+		<div class="fix-tagline">
+					<a href="https://www.wykop.pl/reklama/" class="affect" title="Przejdź do Reklama Wykop.pl">Wykop Poleca</a> 
+							            			<a class="color-2001 affect" href="https://www.wykop.pl/ludzie/regiony/"><em>@</em>regiony</a>
+						<span class="tag create"><a class="affect" href="https://www.wykop.pl/link/partnerredirect/5765939/truciciel-zwierzat-grasuje-w-parku/" title="Otwórz źródło znaleziska" rel="nofollow " target="_blank">regiony.tvp.pl</a></span> <span class="tag create"><a class="affect"  href="https://www.wykop.pl/domena/regiony.tvp.pl/" title="Zobacz inne znaleziska z tej domeny"><i class="fa fa-list-ul size-xxs"></i></a></span>
+			
+						<a class="tag affect create " href="https://www.wykop.pl/tag/polska/"><em>#</em>polska</a>
+						<a class="tag affect create " href="https://www.wykop.pl/tag/czestochowa/"><em>#</em>czestochowa</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/zwierzaczki/"><em>#</em>zwierzaczki</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/psy/"><em>#</em>psy</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/policja/"><em>#</em>policja</a>
+						<a class="tag affect create dnone" href="https://www.wykop.pl/tag/pies/"><em>#</em>pies</a>
+						<a class="affect tag create unhide">+4 inne</a>		    
+		    				</div>
+		
+		
+		<div class="description">
+		    <p class="text">
+		        <a href="https://www.wykop.pl/link/5765939/truciciel-zwierzat-grasuje-w-parku/" title="">
+					Ktoś chce truć zwierzęta w parku miejski w Częstochowie. Policjanci znaleźli porozrzucane kiełbasy nadziane trutkami i ostrymi przedmiotami.		        </a>
+		    </p>    
+		</div>
+				<div class="row elements">
+		    <a class="affect" href="https://www.wykop.pl/link/5765939/truciciel-zwierzat-grasuje-w-parku/"><i class="fa fa-comments-o"></i> 4 komentarze</a> 
+		    <span class="affect">
+		     
+				dodany <time title="2020-10-27 14:47:44" datetime="2020-10-27T14:47:44+01:00" itemprop="datePublished">7 godz. temu</time> 
+		    </span>
+
+		</div>
+					</div>
+    </div>
+ </li></ul>
+<span id="wpladbottom"><ins class="staticpubads89354"
+     data-sizes-desktop="900x300, 900x250, 900x200, 900x100, 830x300, 800x120, 750x300, 700x200, 728x200, 728x90"
+     data-sizes-mobile="336x280, 300x250, 320x100, 320x300"
+     data-slot="5"
+>
+</ins>
+</span><div class="wblock rbl-block pager"><p><a href="https://www.wykop.pl/" class="button selected">1</a> <a href="https://www.wykop.pl/strona/2/" class="button">2</a> <a href="https://www.wykop.pl/strona/3/" class="button">3</a> <a href="https://www.wykop.pl/strona/4/" class="button">4</a> <a href="https://www.wykop.pl/strona/5/" class="button">5</a> <a href="https://www.wykop.pl/strona/6/" class="button">6</a> <a href="https://www.wykop.pl/strona/7/" class="button">7</a> <span>...</span> <a href="https://www.wykop.pl/strona/6045/" class="button">6045</a> <a href="https://www.wykop.pl/strona/6046/" class="button">6046</a> <a href="https://www.wykop.pl/strona/2/" class="button" >następna</a> </p></div>			  
+		</div><!-- /grid-main -->
+    
+    </div><!-- /grid -->
+    
+        <div class="grid-right m-reset-float m-reset-margin m-reset-width m-hide">
+							        
+					   							   		
+					   							   		<div class="r-block screening-displace"><span id="wpladbox1"><ins class="staticpubads89354"
+     data-sizes-desktop="120x600, 160x600, 200x600, 240x400, 240x600, 300x250, 300x600"
+     data-sizes-mobile="336x280, 300x250, 320x100, 320x300, 300x600"
+     data-slot="1"
+>
+</ins>
+</span></div>					   							   				<div class="r-block link-list-popular ">
+		
+		<h4>Ostatnio popularne</h4>
+			
+			<ul class="menu-list m-flex">
+				
+				 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5766427/kaczynski-trzeba-wygrac-wojne-ze-skrajna-lewica/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603818619D81znPVVMmQas6sjXQv8gq,w113h64.jpg" alt="Kaczyński: Trzeba wygrać wojnę ze skrajną lewicą" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">Kaczyński: Trzeba wygrać wojnę ze skrajną lewicą</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>8903</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5761919/wykopefekt-pozbadzmy-sie-wspolnie-propisowskiej-szczujni-z-internetu/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_16036490241kQz6lFmyj1c1L0XlK7oeX,w113h64.jpg" alt="Wykopefekt - pozbądźmy się wspólnie propisowskiej szczujni z internetu" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">Wykopefekt - pozbądźmy się wspólnie propisowskiej szczujni z internetu</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>7244</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5760891/kinga-duda-i-agata-duda-milcza-ws-zakazu-aborcji-gdzie-one-sa/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603613840eNPiGqTPIAcaYi5le9CB1j,w113h64.jpg" alt="Kinga Duda i Agata Duda milczą ws. zakazu aborcji. Gdzie one są?" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">Kinga Duda i Agata Duda milczą ws. zakazu aborcji. Gdzie one są?</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>6382</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5765883/robert-maklowicz-jezeli-widzi-sie-jak-rzad-tanczy-na-urodzinach-radia-maryja/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603805358yTNhONfrmhdTYmeqNNSBhK,w113h64.jpg" alt="Robert Makłowicz: jeżeli widzi się, jak rząd tańczy na urodzinach Radia Maryja" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">Robert Makłowicz: jeżeli widzi się, jak rząd tańczy na urodzinach Radia Maryja</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>5193</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5764323/wlasciciele-praw-do-muminkow-prosza-kaje-godek-o-usuniecie-wpisu-xd/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603739734uVFs8M2NxbYiwfU75ifwWp,w113h64.jpg" alt="Właściciele praw do „Muminków” proszą Kaję Godek o usunięcie wpisu xD" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">Właściciele praw do „Muminków” proszą Kaję Godek o usunięcie wpisu xD</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>4939</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5764367/prowokacja-w-warszawie-podczas-pokojowego-marszu-demonstracyjnego/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603740568l97u48WDAEQwiOMG2RNYTy,w113h64.jpg" alt="PROWOKACJA  w Warszawie podczas pokojowego marszu demonstracyjnego!" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">PROWOKACJA  w Warszawie podczas pokojowego marszu demonstracyjnego!</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>4932</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5766653/zaginal-znany-polski-tik-toker/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603823306zL5UUheNfkJZ4C39eZma3B,w113h64.jpg" alt="Zaginał znany polski tik-toker" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">Zaginał znany polski tik-toker</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>4768</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5763677/blad-w-symulacji-prosto-od-tvpis/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603722931yBAPrfe3H0pMAIs2Eyjydm,w113h64.jpg" alt="Błąd w symulacji prosto od TVPiS" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">Błąd w symulacji prosto od TVPiS</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>4270</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5764401/protesty-w-polsce-na-glownej-bbc-com/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603741717LLyOZ81N21YhOtRNGYSg02,w113h64.jpg" alt="Protesty w Polsce na głównej bbc.com!" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">Protesty w Polsce na głównej bbc.com!</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>4329</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                 				<li>
+                <div class="w-item mini">
+                                        <a class="clearfix" href="https://www.wykop.pl/link/5762875/jacek-sasin-nagrodzony-za-szczegolny-wklad-w-rozwoj-gospodarczy-polski/" title="">
+                        	 <span class="image"><img class="lazy" data-original="https://www.wykop.pl/cdn/c3397993/link_1603702748PY4pZMLSHFpqwvsm6Qiyb4,w113h64.jpg" alt="Jacek Sasin nagrodzony za &quot;szczególny wkład w rozwój gospodarczy Polski&quot;" width="113" height="64"></span>
+                      
+                        <span>
+                            <span class="title">Jacek Sasin nagrodzony za &quot;szczególny wkład w rozwój gospodarczy Polski&quot;</span>
+                            <span class="results hot"><i class="icon tiny hot"></i>  <strong>4183</strong></span>
+                        </span>
+                    </a>
+                                    </div>
+                                </li>
+                                             </ul>
+                
+                 
+					<div class="adsgl indent brbotte8 pding5_0 dnone">
+							<div>
+							<p class="by"><a href="#" class="adsbygoogle small c5">Reklamy Google</a></>
+							<p class="pdingbott3"><a href="#" class="gasLink gasTitle title large"></a></p>
+							<p class="gasBody"></p>
+							<p><a href="#" class="gasLink gasPubLink cc6 small"></a></p>
+							</div>
+					</div>
+					<div class="adsgl indent brbotte8 pding5_0">
+							<div>
+							<p class="pdingbott3"><a href="#" class="gasLink gasTitle title large"></a></p>
+							<p class="gasBody pdingbott3"></p>
+							<p><a href="#" class="gasLink gasPubLink cc6 small"></a></p>
+							</div>
+					</div>
+											
+        </div>     
+
+						   							   							   		
+    <span id="wpladbox2"><ins class="staticpubads89354"
+     data-sizes-desktop="120x600, 160x600, 200x600, 240x400, 240x600, 300x250, 300x600"
+     data-sizes-mobile="336x280, 300x250, 320x100, 320x300, 300x600"
+     data-slot="2"
+>
+</ins>
+</span>
+			 	</div><!-- /grid-right -->
+	</div>
+<!-- /wrapper -->
+
+</div><!-- /#site -->
+
+<div id="footer" class="m-reset-position m-reset-height m-reset-padding">
+    <div class="wrapper">
+		<div class="width-two-third inlblk vertical-top m-set-fullwidth">
+  <h4>Przydatne linki</h4>
+        <div class="width-one-third m-set-fullwidth">
+            <div class="space">
+                <ul>
+                <li><a href="https://www.wykop.pl/info/" title="">Idea Wykopu</a></li>
+                <li><a href="https://www.wykop.pl/regulamin/" title="">Regulamin</a></li>
+                <li><a href="https://www.wykop.pl/reklama/" title="">Reklama</a></li>
+                <li><a href="https://www.wykop.pl/blog/" title="">Blog</a></li>
+                <li><a href="https://www.wykop.pl/polityka-prywatnosci/" title="">Polityka prywatności</a></li>
+                <li><a href="https://www.wykop.pl/polityka-plikow-cookies/" title="">Informacja o cookies</a></li>
+                <li><a href="https://www.wykop.pl/najczesciej-zadawane-pytania/" title="">Pomoc i FAQ</a></li>
+                <li><a href="https://www.wykop.pl/kontakt/" title="">Kontakt</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="width-one-fourth m-set-fullwidth">
+            <div class="space">
+                <ul>
+                <li><a href="https://www.wykop.pl/szukaj/?search%5Bwhat%5D=archive&search%5Bsort%5D=new&search%5Bwhen%5D=week" title="">Archiwum</a></li>
+                <li><a href="https://www.wykop.pl/ranking/" title="">Ranking użytkowników</a></li>
+                <li><a href="https://www.wykop.pl/osiagniecia/" title="">Osiągnięcia</a></li>
+                <li><a href="https://www.wykop.pl/tagi/" title="">Tagi</a></li>
+                <li><a href="https://www.wykop.pl/dodatki/" title="">Dodatki</a></li>
+                <li class="margin5_0"><a href="https://www.wykop.pl/dla-programistow/" title="Wykopywarka, Widget i API">Dla programistów</a></li>
+                <li><a href="https://www.wykop.pl/polecamy/" title="">Wykop Poleca</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="width-one-fourth m-set-fullwidth">
+            <div class="space">
+                <ul>
+                
+                <li><a href="https://www.wykop.pl/quiz/" title="">Quiz</a></li>
+                <li><a href="http://www.gruca.pl/product.php?id=283,wykop" title="Kup koszulkę wykopu">Zamów koszulkę</a></li>
+                <li><a href="https://www.wykop.pl/rss/" title="" id="custom_rss_index"><i class="fa fa-rss-square"></i> wykopane</a></li>
+                <li><a href="https://www.wykop.pl/rss/upcoming/" title="" id="custom_rss_upcoming"><i class="fa fa-rss-square"></i> wykopalisko</a></li>
+                <li><a href="https://www.wykop.pl/rss/comments/" title=""><i class="fa fa-rss-square"></i> komentarze</a></li>
+                </ul>
+            </div>
+        </div>
+
+	</div>
+	
+	<div class="width-one-third inlblk vertical-top m-reset-width m-set-fullwidth">
+		<h4>Chmura tagów</h4>
+		<div>
+			<a class="x-small tag create" href="https://www.wykop.pl/tag/hardware/" title="hardware">hardware</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/humor/" title="humor">humor</a> <a class="normal tag create" href="https://www.wykop.pl/tag/internet/" title="internet">internet</a> <a class="large tag create" href="https://www.wykop.pl/tag/technologia/" title="technologia">technologia</a> <a class="normal tag create" href="https://www.wykop.pl/tag/rozrywka/" title="rozrywka">rozrywka</a> <a class="normal tag create" href="https://www.wykop.pl/tag/nauka/" title="nauka">nauka</a> <a class="normal tag create" href="https://www.wykop.pl/tag/programowanie/" title="programowanie">programowanie</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/software/" title="software">software</a> <a class="normal tag create" href="https://www.wykop.pl/tag/sztuka/" title="sztuka">sztuka</a> <a class="large tag create" href="https://www.wykop.pl/tag/aborcja/" title="aborcja">aborcja</a> <a class="large tag create" href="https://www.wykop.pl/tag/bekazpisu/" title="bekazpisu">bekazpisu</a> <a class="xx-large tag create" href="https://www.wykop.pl/tag/ciekawostki/" title="ciekawostki">ciekawostki</a> <a class="xx-large tag create" href="https://www.wykop.pl/tag/covid19/" title="covid19">covid19</a> <a class="normal tag create" href="https://www.wykop.pl/tag/ekonomia/" title="ekonomia">ekonomia</a> <a class="large tag create" href="https://www.wykop.pl/tag/europa/" title="europa">europa</a> <a class="normal tag create" href="https://www.wykop.pl/tag/heheszki/" title="heheszki">heheszki</a> <a class="normal tag create" href="https://www.wykop.pl/tag/historia/" title="historia">historia</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/katolicyzm/" title="katolicyzm">katolicyzm</a> <a class="x-big tag create" href="https://www.wykop.pl/tag/koronawirus/" title="koronawirus">koronawirus</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/kosciol/" title="kosciol">kosciol</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/kultura/" title="kultura">kultura</a> <a class="normal tag create" href="https://www.wykop.pl/tag/medycyna/" title="medycyna">medycyna</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/motoryzacja/" title="motoryzacja">motoryzacja</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/muzyka/" title="muzyka">muzyka</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/pieniadze/" title="pieniadze">pieniadze</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/policja/" title="policja">policja</a> <a class="x-big tag create" href="https://www.wykop.pl/tag/polityka/" title="polityka">polityka</a> <a class="xx-big tag create" href="https://www.wykop.pl/tag/polska/" title="polska">polska</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/prawo/" title="prawo">prawo</a> <a class="normal tag create" href="https://www.wykop.pl/tag/protest/" title="protest">protest</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/samochody/" title="samochody">samochody</a> <a class="xx-large tag create" href="https://www.wykop.pl/tag/swiat/" title="swiat">swiat</a> <a class="normal tag create" href="https://www.wykop.pl/tag/usa/" title="usa">usa</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/wydarzenia/" title="wydarzenia">wydarzenia</a> <a class="x-small tag create" href="https://www.wykop.pl/tag/zainteresowania/" title="zainteresowania">zainteresowania</a> <a class="large tag create" href="https://www.wykop.pl/tag/zdrowie/" title="zdrowie">zdrowie</a> 		</div>
+	</div>
+    </div><!-- /wrapper -->
+</div><!-- /#footer -->
+
+<script type="text/javascript" src="https://www.wykop.pl/static/wykoppl7/s/d9ce1d4b365a3d6e174e1c9cfa022b6c.js"></script>
+<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+		var pp_gemius_identifier = 'bP.rCw_JyFMIZIRCqJh5IcQLP_2yqwdzPdN2CL6rj0X.Y7';
+		function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+		gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+		(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+		gt.setAttribute('defer','defer'); gt.src=l+'://arbo.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+		//--><!]]>
+		</script><script async src="//get.optad360.io/sf/e7d1565c-4b26-11e9-90af-02b353d38134/plugin.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-1983591-1', 'auto');
+
+  ga('set', 'dimension1', 'Visitor');
+  ga('set', 'dimension2', -1);
+    ga('set', 'dimension3', 'multimedia');
+    ga('set', 'dimension4', typeof bmone2n !== "undefined" ? 0 : 1 );
+      ga('set', 'dimension7', '2014' );
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid');
+  ga('send', 'pageview');
+  
+</script>
+  
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","mainEntityOfPage":{"@type":"WebPage","url":"https:\/\/www.wykop.pl\/static\/wykoppl\/img\/dev\/logo_wykop_500.png"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https:\/\/www.wykop.pl\/static\/wykoppl\/img\/dev\/logo_wykop_500.png"},"name":"Wykop.pl","sameAs":["https:\/\/www.facebook.com\/wykoppl\/","https:\/\/twitter.com\/wykop","https:\/\/www.instagram.com\/Wykop_pl\/","https:\/\/plus.google.com\/u\/0\/+wykop","https:\/\/vimeo.com\/user4265288","https:\/\/www.youtube.com\/user\/WykopKontoOficjalne"]}}</script>
+
+</body>
+</html>
+<!-- ECACHED cached_page_ef4d8d14b4ceef8774f78ed574482d87_0a69dfbdc4d61a6e7b37ad126e2b4828 --><!-- USRIQ(0.0045578479766846) --><!--APP R3NDR www.wykop.pl-->
