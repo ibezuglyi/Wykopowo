@@ -90,9 +90,9 @@ jobs:
     
     - name: Publish artifacts
     - uses: actions/upload-artifact@v2
-        with:
-          name: my-artifact
-          path: artifacts
+      with:
+        name: my-artifact
+        path: artifacts
 
 
     # Decode the base 64 encoded pfx and save the Signing_Certificate
