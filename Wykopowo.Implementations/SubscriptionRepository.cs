@@ -48,5 +48,11 @@ namespace Wykopowo.Implementations
         {
             return Connection.Query<Subscription>(SubscriptionRepositoryScripts.GetAllSubscriptions).ToList();
         }
+
+        public void UpdateLastArticleTime(long lastArticleTime, long subscriptionId)
+        {
+            Connection.Query(SubscriptionRepositoryScripts.UpdateLastArticleTime,
+                new {LastArticleTime = lastArticleTime, Id = subscriptionId});
+        }
     }
 }

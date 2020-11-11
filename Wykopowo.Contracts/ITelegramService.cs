@@ -1,21 +1,28 @@
 ﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Wykopowo.Contracts
 {
     public interface ITelegramService
     {
-        void SendMessages(List<SubscriptionMessage> messages);
+        Task SendMessages(List<SubscriptionMessage> messages);
     }
 
     public class SubscriptionMessage
     {
         public long ChatId { get; set; }
         public string Text { get; set; }
-
-        public SubscriptionMessage(long chatId, string text)
+        public long SubscriptionLastArticleTime { get; }
+        public int SubscriptionId { get; set; }
+        
+        public SubscriptionMessage(Subscription sub, NewsLine message)
         {
-            ChatId = chatId;
-            Text = text;
+            SubscriptionId = sub.Id;
+            ChatId = sub.ChatId;
+            Text = message.ToHtml();
+            SubscriptionLastArticleTime = message.GetTime();
         }
+
+        
     }
 }

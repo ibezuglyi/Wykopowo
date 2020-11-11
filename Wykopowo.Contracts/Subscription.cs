@@ -5,6 +5,7 @@
         public int Id { get; set; }
         public long ChatId { get; set; }
         public string Url { get; set; }
+        public long? LastArticleTime { get; set; }
 
         public Subscription(long chatId, string url)
         {

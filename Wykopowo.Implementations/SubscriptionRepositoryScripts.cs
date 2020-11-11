@@ -7,7 +7,8 @@
                Id integer primary key AUTOINCREMENT,
                ChatId integer not null,
                Url varchar(200) not null,
-                UNIQUE(ChatId, Url)
+               LastArticleTime integer null,
+               UNIQUE(ChatId, Url)
              )";
 
         public static readonly string CreateSubscription =
@@ -17,6 +18,10 @@
             @"DELETE FROM Subscriptions WHERE ChatId=@ChatId and Url=@Url";
 
         public static readonly string GetAllSubscriptions =
-            @"SELECT Id, ChatId, Url  From Subscriptions";
+            @"SELECT Id, ChatId, Url, LastArticleTime  From Subscriptions";
+
+        public static readonly string UpdateLastArticleTime = 
+            @"UPDATE Subscriptions SET LastArticleTime = @LastArticleTime WHERE Id = @id";
+        
     }
 }

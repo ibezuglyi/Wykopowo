@@ -20,7 +20,7 @@ namespace Wykopowo
             var token = Environment.GetEnvironmentVariable("tele_token", EnvironmentVariableTarget.User);
             bootstrapper = new Bootstrapper();
             bootstrapper.Initialize(file, token);
-            var timer = new Timer(1000 * 60 * 30);
+            var timer = new Timer(1000 * 60 * 15);
             timer.Elapsed += TimerOnElapsed;
             timer.Start();
             TimerOnElapsed(null, null);

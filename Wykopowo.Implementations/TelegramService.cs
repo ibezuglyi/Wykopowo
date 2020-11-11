@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using Telegram.Bot;
 using Telegram.Bot.Args;
 using Telegram.Bot.Types.Enums;
@@ -25,7 +26,7 @@ namespace Wykopowo.Implementations
         }
 
 
-        public async void SendMessages(List<SubscriptionMessage> messages)
+        public async Task SendMessages(List<SubscriptionMessage> messages)
         {
             foreach (var message in messages)
             {
