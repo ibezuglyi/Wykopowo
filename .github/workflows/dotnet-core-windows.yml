@@ -91,7 +91,7 @@ jobs:
     - name: Publish artifacts
       uses: actions/upload-artifact@v2
       with:
-        name: my-artifact
+        name: wykopowo-windows
         path: artifacts
 
 
