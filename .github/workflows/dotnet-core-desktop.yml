@@ -86,7 +86,14 @@ jobs:
         Configuration: ${{ matrix.configuration }}
 
     - name: Publish the application
-      run: dotnet publish -c Release -o wykopowo
+      run: dotnet publish -c Release -o artifacts
+    
+    - name: Publish artifacts
+    - uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: artifacts
+
 
     # Decode the base 64 encoded pfx and save the Signing_Certificate
     #- name: Decode the pfx
