@@ -1,7 +1,5 @@
 ﻿using System;
-using System.IO;
 using System.Net.Http;
-using System.Reflection;
 using System.Threading.Tasks;
 using System.Timers;
 using Wykopowo.Implementations;
@@ -15,16 +13,29 @@ namespace Wykopowo
 
         static void Main(string[] args)
         {
-            var homeDirectoryName = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-            var file = Path.Combine(homeDirectoryName, "subscriptions.db");
             var token = Environment.GetEnvironmentVariable("tele_token", EnvironmentVariableTarget.User);
+            var connectionString = Environment.GetEnvironmentVariable("wykopowo_cs", EnvironmentVariableTarget.User);
+            AssertVariables(token, connectionString);
             bootstrapper = new Bootstrapper();
-            bootstrapper.Initialize(file, token);
+            bootstrapper.Initialize(connectionString, token);
             var timer = new Timer(1000 * 60 * 15);
             timer.Elapsed += TimerOnElapsed;
             timer.Start();
             TimerOnElapsed(null, null);
             Console.ReadKey();
+        }
+
+        private static void AssertVariables(string token, string connectionString)
+        {
+            if (string.IsNullOrWhiteSpace(token))
+            {
+                throw new ArgumentException("token is not set");
+            }
+
+            if (string.IsNullOrWhiteSpace(connectionString))
+            {
+                throw new ArgumentException("connectionString is not set.");
+            }
         }
 
         private static void TimerOnElapsed(object sender, ElapsedEventArgs e)

@@ -13,7 +13,7 @@ namespace Wykopowo.Contracts
         public long ChatId { get; set; }
         public string Text { get; set; }
         public long SubscriptionLastArticleTime { get; }
-        public int SubscriptionId { get; set; }
+        public string SubscriptionId { get; set; }
         
         public SubscriptionMessage(Subscription sub, NewsLine message)
         {

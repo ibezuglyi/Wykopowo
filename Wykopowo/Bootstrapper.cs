@@ -12,7 +12,7 @@ namespace Wykopowo
     {
         public void Initialize(string dbFile, string token)
         {
-            SubscriptionRepository = new SubscriptionRepository("Data Source=" + dbFile);
+            SubscriptionRepository = new SubscriptionMongoDbRepository(dbFile);
             TelegramService = new TelegramService(token);
             TelegramService.OnMessage += (sender, args) => { Hub.Default.Publish<MessageEventArgs>(args); };
             OnSubscriptionCreating();
@@ -21,18 +21,17 @@ namespace Wykopowo
 
         private void OnNewHeaderAdding()
         {
-            Hub.Default.Subscribe( (List<NewsLine> headers) =>
+            Hub.Default.Subscribe((List<NewsLine> headers) =>
             {
-                Task.Run(async () => { 
+                Task.Run(async () =>
+                {
                     var subscriptions = SubscriptionRepository.GetAllSubscriptions();
                     var messages = headers.SelectMany(m =>
                         subscriptions.Where(s => s.LastArticleTime == null || s.LastArticleTime.Value < m.GetTime())
                             .Select(subscription => new SubscriptionMessage(subscription, m))).ToList();
                     await TelegramService.SendMessages(messages);
                     UpdateLastArticleTimes(subscriptions, messages);
-                    
                 }).GetAwaiter().GetResult();
-                
             });
         }
 
@@ -41,12 +40,14 @@ namespace Wykopowo
             if (!messages.Any())
             {
                 return;
-                
             }
+
             foreach (var subscription in subscriptions)
             {
-                var newestMessage = messages.Where(m => m.SubscriptionId == subscription.Id).OrderByDescending(r => r.SubscriptionLastArticleTime).First();
-                SubscriptionRepository.UpdateLastArticleTime(newestMessage.SubscriptionLastArticleTime, newestMessage.SubscriptionId);
+                var newestMessage = messages.Where(m => m.SubscriptionId == subscription.Id)
+                    .OrderByDescending(r => r.SubscriptionLastArticleTime).First();
+                SubscriptionRepository.UpdateLastArticleTime(newestMessage.SubscriptionLastArticleTime,
+                    newestMessage.SubscriptionId);
             }
         }
 
@@ -60,7 +61,7 @@ namespace Wykopowo
         }
 
         public TelegramService TelegramService { get; private set; }
-        public SubscriptionRepository SubscriptionRepository { get; private set; }
+        public ISubscriptionRepository SubscriptionRepository { get; private set; }
 
         public void PublishNews(List<NewsLine> news)
         {

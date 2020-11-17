@@ -7,11 +7,11 @@ using Wykopowo.Contracts;
 
 namespace Wykopowo.Implementations
 {
-    public class SubscriptionRepository : ISubscriptionRepository
+    public class SubscriptionSqliteRepository : ISubscriptionRepository
     {
         public SQLiteConnection Connection { get; }
 
-        public SubscriptionRepository(SQLiteConnection connection)
+        public SubscriptionSqliteRepository(SQLiteConnection connection)
         {
             Connection = connection;
             Connection.Open();
@@ -26,17 +26,17 @@ namespace Wykopowo.Implementations
             }
         }
 
-        public SubscriptionRepository(string connectionString) : this(new SQLiteConnection(connectionString))
+        public SubscriptionSqliteRepository(string connectionString) : this(new SQLiteConnection(connectionString))
         {
         }
 
 
-        public long CreateSubscription(Subscription subscription)
+        public string CreateSubscription(Subscription subscription)
         {
             var subscriptionId = Connection
                 .Query<long>(SubscriptionRepositoryScripts.CreateSubscription, subscription)
                 .First();
-            return subscriptionId;
+            return subscriptionId.ToString();
         }
 
         public void RemoveSubscription(long chatId, string url)
@@ -49,7 +49,7 @@ namespace Wykopowo.Implementations
             return Connection.Query<Subscription>(SubscriptionRepositoryScripts.GetAllSubscriptions).ToList();
         }
 
-        public void UpdateLastArticleTime(long lastArticleTime, long subscriptionId)
+        public void UpdateLastArticleTime(long lastArticleTime, string subscriptionId)
         {
             Connection.Query(SubscriptionRepositoryScripts.UpdateLastArticleTime,
                 new {LastArticleTime = lastArticleTime, Id = subscriptionId});

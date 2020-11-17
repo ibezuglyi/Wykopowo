@@ -1,8 +1,14 @@
-﻿namespace Wykopowo.Contracts
+﻿using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
+
+namespace Wykopowo.Contracts
 {
     public class Subscription
     {
-        public int Id { get; set; }
+        [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string Id { get; set; }
+
         public long ChatId { get; set; }
         public string Url { get; set; }
         public long? LastArticleTime { get; set; }
@@ -15,8 +21,6 @@
 
         public Subscription()
         {
-            
         }
-        
     }
 }

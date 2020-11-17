@@ -1,10 +1,12 @@
-﻿using Wykopowo.Contracts;
+﻿using System.Collections.Generic;
 
-namespace Wykopowo
+namespace Wykopowo.Contracts
 {
     public interface ISubscriptionRepository
     {
-        long CreateSubscription(Subscription subscription);
+        string CreateSubscription(Subscription subscription);
         void RemoveSubscription(long chatId, string url);
+        List<Subscription> GetAllSubscriptions();
+        void UpdateLastArticleTime(long lastArticleTime, string subscriptionId);
     }
 }
