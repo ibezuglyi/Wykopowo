@@ -13,8 +13,8 @@ namespace Wykopowo
 
         static void Main(string[] args)
         {
-            var token = Environment.GetEnvironmentVariable("tele_token", EnvironmentVariableTarget.Process);
-            var connectionString = Environment.GetEnvironmentVariable("wykopowo_cs", EnvironmentVariableTarget.Process);
+            var token = Environment.GetEnvironmentVariable("TELE_TOKEN", EnvironmentVariableTarget.Process);
+            var connectionString = Environment.GetEnvironmentVariable("WYKOPOWO_CS", EnvironmentVariableTarget.Process);
             AssertVariables(token, connectionString);
             bootstrapper = new Bootstrapper();
             bootstrapper.Initialize(connectionString, token);
